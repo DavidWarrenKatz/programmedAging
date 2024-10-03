@@ -22,6 +22,8 @@ Charles Goodnight
 
 Ted Goldsmith 
 
+Harold Katcher
+
 Josh Mitteldorf
 
 Denis Noble
