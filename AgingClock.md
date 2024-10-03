@@ -1,3 +1,4 @@
+# In Progress
 Babies are born young. This means that adult organisms can produce new, young cells. Why then do adult organisms not regenerate a completely young body, just as a newt regenerates the lens of its eyes and even its entire limbs if needed [Goro Eguchi et al. (Nature Communications, 2011)]? 
 
 The bodies of multicellular organisms are composed of cells that continuously undergo turnover—old cells die and are replaced by new ones. For example, in humans, skin cells, blood cells, and cells of the lining of the gut are frequently renewed. Why does this cellular turnover not result in the rejuvenation of the turned over cells? An old skin cell looks and behaves differently than a young skin cell, even if both of the cells were recently created [Jacob Kimmel et al. (Genome Res., 2019); William Allen et al. (Cell, 2023)]. How does the old cell ‘know’ to be born old, while the egg cell ‘knows’ to be born young?
