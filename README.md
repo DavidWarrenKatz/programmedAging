@@ -2,6 +2,8 @@
 
 Aging is the increase in the risk of mortality from internal causes. All evidence points towards a genetic basis of aging. Different genotypes of the same species have different average lifespans. The lifespans of identical twins are more similar than the lifespans of siblings who are not identical, and the lifespans of siblings are more similar than the lifespans of people who are distantly related. Aging genes —genes that, when knocked out, extend lifespan—have been found in every species in which they have been sought. Furthermore, aging genes are evolutionarily conserved. Why then has evolution not selected for greater longevity?
 
+**Why** and **how** are two distinct questions. When we ask **why** organisms age, we're seeking the reason evolution has maintianed health only up until a certian point, but not beyond, despite the potential to select for greater longevity. Asking **why** helps us construct a narrative on which to organize our thoughts. However, it is important not to become too fixated on the **why** of aging. When we ask **why,** we are essentially demanding that the universe make sense of itself— a plea that will undoubtedly go unanswered. A more practical approach is to focus on the **how** of aigng. In the next section, we discuss **why** organisms age, but our emphasis will then shift to **how** we age, a separate and, arguably, far more important question. Understanding how aging works will give us the tools to address it directly, which is what truly matters.
+
 ## Why We Age
 
 There are two schools of thought on why aging happens. The first school posits that evolution has **directly selected for aging**, while the second school posits that evolution has **indirectly selected for aging** as a byproduct of selecting for something else. 
@@ -37,6 +39,8 @@ Group selection provides a more comprehensive view of nature, and explains the s
 By not acknowledging the possibility of group selection, I believe most biologists are missing how the natural world truly operates. This situation can be compared to not acknowledging the electromagnetic force just because no one has discovered the precise mechanism behind this force.
 
 ## How We Age
+
+Aging is deferred until after sexual maturation. 
 
 Why and How are two distinct questions. It is important not to get caught up in the "why" of aging. When we ask "why," we are essentially demanding that the universe make sense of itself— a plea that will undoubtedly go unanswered. Instead of grappling with existential questions, a more pragmatic approach would be to focus on "how," particularly in understanding processes like aging. 
 
