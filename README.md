@@ -8,7 +8,7 @@ Aging is the increase in the risk of mortality from internal causes. All evidenc
 
 There are two schools of thought on why aging happens. The first school posits that evolution has **directly selected for aging**, while the second school posits that evolution has **indirectly selected for aging** as a byproduct of selecting for something else. 
 
-Let’s first define what it means for evolution to select a trait. Evolution is the change in living things over time, and this process is ongoing. All life shares a common ancestor, and living things change over generations. These changes are not arbitrary. When we say that evolution “selects” for a trait, we mean that the trait becomes more common in the population due to factors beyond random chance and physical constraints. 
+Let’s first define what it means for evolution to select a trait. Evolution is the change in living things over time. Evolution is ongoing. All life shares a common ancestor, and living things change over generations. These changes are not arbitrary. When we say that evolution “selects” for a trait, we mean that the trait becomes more common in the population due to factors beyond random chance and physical constraints. 
 
 Aging is such a trait that cannot be explained by random chance or physical constraints alone. There is no law of biology or physics that states organisms must age. In fact, many plants and some animals do not age. Sequoia trees, for example, grow stronger and hardier with each passing year for thousands of years. Most organisms do age because aging has been selected for by evolution. The only question is whether evolution has selected for aging directly or indirectly. 
 
