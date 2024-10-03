@@ -1,5 +1,4 @@
-#In Progress
-
+# In Progress
 Below is a summary of well-known scientists who have written in support of **Group Selection**:
 
 ### August Weismann (1834 – 1914)
