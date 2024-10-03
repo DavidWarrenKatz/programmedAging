@@ -11,7 +11,8 @@ V. C. Wynne-Edwards was a prominent advocate of group selection in evolutionary 
 George Price was a mathematician and evolutionary biologist who developed of the Price equation, a mathematical formula that describes how gene frequencies change over time in a population. This equation provided a framework to explain how traits that benefit groups, rather than just individuals, could evolve. Price defined fitness as number of fertile offspring, and thus thought that individual selection was much more powerful than group selection. However, even with this individual definition of fitness, Price beleived altruistic behaviors—which may reduce individual fitness but benefit the group—can still evolve if they enhance the survival and reproduction of the group as a whole.
 
 ### William R. Clark (1938 - )
-William R. Clark is a biologist who has written books on the biology of aging and death. 
+William Clark was a Professor of Immunology at the University of California at Los Angeles, who wrote many books on aging. 
+
 - **Sex and the Origins of Death** (1998): In this book, Clark explores the evolutionary origins of death, linking it to the emergence of sexual reproduction. He argues that the evolution of sex and the differentiation between the germline and somatic cells may have given rise to aging and programmed death, framing death as a byproduct of the evolutionary mechanisms that maximize reproductive success.
 - **A Means to an End: The Biological Basis of Aging and Death** (2002): 
 
