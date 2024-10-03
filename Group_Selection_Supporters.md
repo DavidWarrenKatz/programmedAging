@@ -20,19 +20,19 @@ Michael Gilpin was an American ecologist best known for his work on metapopulati
 ### David Sloan Wilson (1949 - )
 Onto Others
 
-Michael Wade
+### Michael Wade
 
-John Pepper
+### John Pepper
 
-Lynn Margulus
+### Lynn Margulus
 
-Charles Goodnight
+### Charles Goodnight
 
-Ted Goldsmith 
+### Ted Goldsmith 
 
-Harold Katcher
+### Harold Katcher
 
-Josh Mitteldorf
+### Josh Mitteldorf
 
-Denis Noble
+#### Denis Noble
 
