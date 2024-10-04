@@ -1,7 +1,7 @@
 ### Hypotheses
 
-- [Experiment 1](https://github.com/DavidWarrenKatz/programmedAging/blob/main/experiments/serial_transfer_Tcell.md): Testing 
-- [Experiment 2](https://github.com/DavidWarrenKatz/programmedAging/experiments/serial_transfer_Tcell.md):
+- [Experiment 1](https://github.com/DavidWarrenKatz/programmedAging/blob/main/experiments/serial_transfer_Tcell.md): Serial T Cell Transfer 
+- [Experiment 2](https://github.com/DavidWarrenKatz/programmedAging/blob/main/experiments/aging_chimera_experiment.md): Chimera
 - [Experiment 3]():  
 - [Experiment 4](): 
 - [Experiment 5]():
@@ -24,5 +24,4 @@ Programmed theories of aging explain rejuvenation as turning back the biological
 Here are experiments that will provide evidence for these hypotheses.    
 ![Biological Clock](images/Reseting_Development_Clock_Experiment.png)  
 ![Signaling Network](images/ECM_of_Yeast.png)  
-![Rejuvenation Process](images/Serial_Transfer.png) 
 ![ECM Rejuvenation](images/ECM_rejuvenated_with_young_cells_2.png) 
