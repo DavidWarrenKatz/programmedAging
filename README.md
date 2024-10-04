@@ -1,6 +1,10 @@
 # Introduction to Programmed Aging
 
-Aging is the increase in the risk of mortality from internal causes. All evidence points towards a genetic basis of aging. Different genotypes of the same species have different average lifespans. The lifespans of identical twins are more similar than the lifespans of siblings who are not identical, and the lifespans of siblings are more similar than the lifespans of people who are distantly related. Aging genes —genes that, when knocked out, extend lifespan—have been found in every species in which they have been sought. Furthermore, aging genes are evolutionarily conserved. Why then has evolution not selected for greater longevity?
+Aging is the increasing risk of mortality from internal causes. Many plants and some animals do not age. Sequoia trees, for example, grow stronger and  hardier with each passing year for thousands of years. No law of biology states that an old body cannot be stronger and healthier than a young body. So why then do most organisms age, and  why is there so much variability in the lifespans of different organisms?  One answer to this important question is the Programmed Aging theory. This theory posits that aging was selected for by evolution and is the result of programmed self-destruction pathways governed by biological clocks. That is, we age for the same reason we go through puberty - aging is built into who we are.
+
+It is generally acknowledged that the sudden death of semelparous animals and monocarpic plants is the result of active self-destruction programs. It is also generally acknowledged that the timing of development is the result of active developmental programs. That is, it is generally acknowledged that the body knows when it is time to mature, and, in the case of semelparous organisms, the body knows when it is time to die. However, almost all biologists refuse to consider the hypothesis that for organisms in general, the body knows when it is time to die, and grows more and more prone to death as a result of active self-destruction pathways. 
+
+[Genetic Basis of Aging](Genetic_basis.md)
  
 [The How and Why of Aging](HowAndWhy.md)
 
