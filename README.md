@@ -4,7 +4,7 @@ Aging is the increasing risk of mortality from internal causes. Many plants and 
 
 It is generally acknowledged that the sudden death of semelparous animals and monocarpic plants is the result of active self-destruction programs. It is also generally acknowledged that the timing of development is the result of active developmental programs. That is, it is generally acknowledged that the body knows when it is time to mature, and, in the case of semelparous organisms, the body knows when it is time to die. However, almost all biologists refuse to consider the hypothesis that for organisms in general, the body knows when it is time to die, and grows more and more prone to death as a result of active self-destruction pathways. 
 
-[Genetic Basis of Aging](Genetic_basis.md)
+[Genetic Basis of Aging](genetic_basis.md)
  
 [The How and Why of Aging](HowAndWhy.md)
 
