@@ -20,6 +20,3 @@ Programmed theories of aging explain rejuvenation as turning back the biological
 ***5. There may be two distinct aging programs: a sudden death program and a gradual aging program.***
 
 ***6. There are other mechanisms of evolution other than natural selection.***
-
-![Signaling Network](images/ECM_of_Yeast.png)  
-![ECM Rejuvenation](images/ECM_rejuvenated_with_young_cells_2.png) 
