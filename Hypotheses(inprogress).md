@@ -21,7 +21,5 @@ Programmed theories of aging explain rejuvenation as turning back the biological
 
 ***6. There are other mechanisms of evolution other than natural selection.***
 
-Here are experiments that will provide evidence for these hypotheses.    
-![Biological Clock](images/Reseting_Development_Clock_Experiment.png)  
 ![Signaling Network](images/ECM_of_Yeast.png)  
 ![ECM Rejuvenation](images/ECM_rejuvenated_with_young_cells_2.png) 
