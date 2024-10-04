@@ -1,7 +1,7 @@
 # Serial T Cell Transplants To Test Whether Rejuvenation Can Be Sustained Indefinitely
 
 ![Serial T Cell Transplants](programmedAging/images/Serial_Transfer.png)
-![Rejuvenation Process](images/Serial_Transfer.png) 
+![Rejuvenation Process](../images/Serial_Transfer.png) 
 
 ## Purpose
 This experiment aims to explore whether the rejuvenation of T cells in aged organisms can be sustained through serial transplants into younger organisms. By transplanting T cells from old mice into young mice and continuing the process over multiple rounds, we aim to determine if aging is due to irreversible damage or if it can be continuously reversed by exposure to youthful environments.
