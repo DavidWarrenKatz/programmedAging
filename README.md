@@ -12,4 +12,9 @@ This GitHub page serves to summarize the evidence supporting the Programmed Agin
 
 [Hypotheses](Hypotheses(inprogress).md)
 
-[![Intro To Programmed Aging Video](images/Programmed_Aging_Thumbnail.png)](https://www.youtube.com/watch?v=38iEeAZEtwc&ab_channel=CuringAging)
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=38iEeAZEtwc&ab_channel=CuringAging">
+    <img src="images/Programmed_Aging_Thumbnail.png" alt="Intro To Programmed Aging Video" style="width: 50%; border: 1px solid #ccc; padding: 5px;">
+  </a>
+</div>
+
