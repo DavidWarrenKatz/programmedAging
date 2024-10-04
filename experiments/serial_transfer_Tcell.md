@@ -1,6 +1,6 @@
 # Serial T Cell Transplants To Test Whether Rejuvenation Can Be Sustained Indefinitely
 
-![Serial T Cell Transplants](programmedAging/images/Serial_Transfer.png)
+![Serial T Cell Transplants](/programmedAging/images/Serial_Transfer.png)
 ![Rejuvenation Process](../images/Serial_Transfer.png) 
 
 ## Purpose
