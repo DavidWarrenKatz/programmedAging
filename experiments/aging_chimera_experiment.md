@@ -1,5 +1,9 @@
 # Experiment: Generating a Hybrid Organism with Half the Cells from a Short-lived and Half from a Long-lived Species
 
+
+Based on this paper
+- Jorge de la Rosa, María A. Freije, Francisco G. Osorio, et al., and Carlos López-Otín. *Prelamin A causes progeria through cell-extrinsic mechanisms and prevents cancer invasion*. Nature Communications, 2013. [Link to paper](https://www.nature.com/articles/ncomms3268)
+
 ## Purpose
 This experiment aims to explore the contribution of cellular environment versus genetic programming in determining lifespan. By creating an organism composed of cells from both a short-lived and a long-lived species, we aim to test how the aging process is influenced by the cellular environment, genetics, and potentially by intercellular signaling between different cell types.
 
