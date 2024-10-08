@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Group Selection Scientists</title>
+    <title>Important Scientists for Aging Research</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -67,21 +67,22 @@
 <body>
 
 <div class="container">
-    <h1>Well-Known Scientists and Group Selection</h1>
+    <h1>Important Scientists for Aging Research</h1>
 
     <!-- Radio Buttons -->
     <div class="radio-container">
-        <label><input type="radio" name="filter" onclick="filterList('group_selection')"> Authors who view aging as a group-selected adaptation</label>
-        <label><input type="radio" name="filter" onclick="filterList('others')"> All Authors</label>
+        <label><input type="radio" name="filter" onclick="filterList('group_selection_aging')"> View Aging As A Group-Selected Adaptation</label>
+        <label><input type="radio" name="filter" onclick="filterList('others')"> All Scientists</label>
+        <label><input type="radio" name="filter" onclick="filterList('group_selection')"> Open to Group Selection</label>
     </div>
 
     <!-- Author List -->
     <ul id="author-list">
-        <li data-category="group_selection" onclick="toggleDescription(this)">
+        <li data-category="group_selection group_selection_aging" onclick="toggleDescription(this)">
             <h3>August Weismann (1834 – 1914)</h3>
             <p>August Weismann was the first to distinguish between the <strong>germline</strong> (reproductive cells) and the <strong>soma</strong> (body cells), and the first to argue that aging was an <strong>evolutionary adaptation</strong>. He argued that aging helps ensure turnover in populations, which benefits the group by making room for younger individuals, thus promoting the evolutionary success of the species as a whole.</p>
         </li>
-        <li data-category="others" onclick="toggleDescription(this)">
+               <li data-category="others" onclick="toggleDescription(this)">
             <h3>V. C. Wynne-Edwards (1906 – 1997)</h3>
             <p>V. C. Wynne-Edwards was a prominent advocate of group selection in evolutionary theory. In his influential work, <em>Animal Dispersion in Relation to Social Behaviour</em> (1962), he argued that behaviors and traits in animals could evolve for the benefit of the group. It’s unclear if he linked aging to this context.</p>
         </li>
@@ -142,9 +143,10 @@ function filterList(category) {
     var items = list.getElementsByTagName("li");
 
     for (var i = 0; i < items.length; i++) {
+        var categories = items[i].getAttribute("data-category").split(" "); // Get all categories
         if (category === "others") {
             items[i].style.display = "list-item";
-        } else if (items[i].getAttribute("data-category") === category) {
+        } else if (categories.includes(category)) { // Check if any category matches the selected filter
             items[i].style.display = "list-item";
         } else {
             items[i].style.display = "none";
@@ -164,6 +166,30 @@ function toggleDescription(element) {
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
