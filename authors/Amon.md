@@ -25,16 +25,18 @@ This research has broadened the understanding of how intrinsic cellular factors,
 ---
 
 ### 2. **Gametogenesis eliminates age-induced cellular damage and resets lifespan in yeast**  
-**Angelika Amon et al.**  
+**Elçin Ünal, Angelika Amon et al.**  
 **Published in Science, 2011**  
 [Read the full article here](https://www.science.org/doi/10.1126/science.1204349)
 
 **Summary**:  
-In this study, Amon and her team explored how gametogenesis in yeast resets the aging clock. They found that during gametogenesis, age-induced cellular damage is eliminated, effectively restoring the lifespan of the newly generated cells. This process highlights a critical mechanism by which cells can undergo a 'rejuvenation' during reproduction, providing insights into how germ cells maintain their integrity across generations.
+In this study, Ünal and her team explored how gametogenesis in yeast resets the aging clock. They found that during gametogenesis, age-induced cellular damage is eliminated, effectively restoring the lifespan of the newly generated cells. Yeast cells lacking Cdc5 are not able to undergo meiotic division, but are still able to sense nutrients deprivation and undergo sporulation. As a result, under conditions that normally induce sporulation in yeast, yeast cells lacking Cdc5 transition from a vegetative cell into a single spore rather than the usual four spores. This single spore is still born young. All hallmarks of aging are erased, including amyloid aggregates.
 
 **Commentary**:  
-This work is particularly important in the field of aging and cell biology because it offers a biological explanation for how organisms reset cellular aging during reproduction. It suggests that there are intrinsic pathways in cells that can clear accumulated damage, raising the possibility of leveraging these pathways in therapeutic interventions aimed at reversing cellular aging.
+A possible conclusion from this study is that dilution and asymmetric division are not responsible for the clearing of age-associated damage, such as amyloid, as there was no cell division. One interpretation is that the yeast cell always had the ability to clear amyloid without dilution or asymmetric division or any addition of energy. The yeast cell, however, allowed the damage to accumulate as directed by its aging program. The hypothesis that there is an aging clock upstream of amyloid accumulation directing the accumulation simply explains this observation of single yeast spores being born young. Another explanation could be that there is a hidden asymmetry in this scenario. While normal meiosis causes aggregates to segregate to the “GUNC”, it’s not clear if GUNC formation is blocked in CDC5mn cells. This suggests repeating the experiment and blocking the formation of GUNC.
+
+In any case, Elcin subsequently states that “elimination of these senescence-associated factors requires gamete membrane formation” (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9712276/). So, the CDC5mn spore may be analogous to a new cell within an old cell.
 
 **Image**:  
 ![Image from Paper](https://example.com/path-to-image)  
-*Caption*: A visual depiction of yeast cells undergoing gametogenesis, demonstrating how the process resets lifespan by eliminating accumulated cellular damage.
+*Caption*: I am basing this off of Figure 3D and Supplementary Information. 
