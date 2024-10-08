@@ -33,7 +33,7 @@ In this study, Ünal and her team explored how gametogenesis in yeast resets the
 **Commentary**:  
 A possible conclusion from this study is that dilution and asymmetric division are not responsible for the clearing of age-associated damage, such as amyloid, as there was no cell division. One interpretation is that the yeast cell always had the ability to clear amyloid without dilution or asymmetric division or any addition of energy. The yeast cell, however, allowed the damage to accumulate as directed by its aging program. The hypothesis that there is an aging clock upstream of amyloid accumulation directing the accumulation simply explains this observation of single yeast spores being born young. Another explanation could be that there is a hidden asymmetry in this scenario. While normal meiosis causes aggregates to segregate to the “GUNC”, it’s not clear if GUNC formation is blocked in CDC5mn cells. This suggests repeating the experiment and blocking the formation of GUNC.
 
-In any case, Elcin subsequently states that “elimination of these senescence-associated factors requires gamete membrane formation” (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9712276/). So, the CDC5mn spore may be analogous to a new cell within an old cell.
+The CDC5mn spore may be analogous to a new cell within an old cell? Does this matter?
 
 **Image**:  
 ![Image from Paper](https://example.com/path-to-image)  
