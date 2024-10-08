@@ -14,7 +14,7 @@ Currently, all aging research works under the hypothesis that old bodies are wor
 
 [Evidence For Prorammed Aging](Evidence_For_Programmed_Aging.md)
 
-[Hypotheses](Hypotheses(inprogress).md)
+[Hypotheses](Hypotheses.md)
 
 <h2 style="text-align: center;">Intro to Programmed Aging Video</h2>
 <div style="text-align: center;">
