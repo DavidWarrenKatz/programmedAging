@@ -23,8 +23,7 @@ This research has broadened the understanding of how intrinsic cellular factors,
 ---
 
 ### 2. [**Gametogenesis eliminates age-induced cellular damage and resets lifespan in yeast**  ](https://www.science.org/doi/10.1126/science.1204349)
-**Elçin Ünal, Angelika Amon et al.**  
-**Published in Science, 2011**  
+**Elçin Ünal, Angelika Amon et al., Science, 2011**  
 
 **Summary**:  
 In this study, Ünal and her team explored how gametogenesis in yeast resets the aging clock. They found that during gametogenesis, age-induced cellular damage is eliminated, effectively restoring the lifespan of the newly generated cells. Yeast cells lacking Cdc5 are not able to undergo meiotic division, but are still able to sense nutrients deprivation and undergo sporulation. As a result, under conditions that normally induce sporulation in yeast, yeast cells lacking Cdc5 transition from a vegetative cell into a single spore rather than the usual four spores. This single spore is still born young. All hallmarks of aging are erased, including amyloid aggregates.
