@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Hypotheses"
+---
+
 ### Hypotheses
 
 - [Experiment 1](https://github.com/DavidWarrenKatz/programmedAging/blob/main/experiments/serial_transfer_Tcell.md): Serial T Cell Transfer 
