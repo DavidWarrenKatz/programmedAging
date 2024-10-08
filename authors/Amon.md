@@ -7,9 +7,8 @@ Angelika Amon was a  biologist known for her work in cell biology, particularly 
 
 ## Key Publications
 
-### 1. **Cell size is a determinant of stem cell potential during aging**  
+### 1. [**Cell size is a determinant of stem cell potential during aging** ](https://www.science.org/doi/full/10.1126/sciadv.abk0271)
 **Jette Lengefeld, Angelika Amon et al., Science Advances, 2021**  
-[Read the full article here](https://www.science.org/doi/full/10.1126/sciadv.abk0271)
 
 **Summary**:  
 The authors demonstrate that as cells age, they increase in size, which negatively impacts the regenerative potential of stem cells. The study shows that smaller stem cells retain a higher regenerative potential than their larger counterparts, suggesting that cell size is a determinant of stem cell potency during aging. This work has significant implications for understanding aging and the potential for rejuvenating stem cell function.
