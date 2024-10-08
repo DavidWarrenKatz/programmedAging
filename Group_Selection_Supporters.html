@@ -1,70 +1,140 @@
-davidwarrenkatz.github.io
-
 Below is a summary of well-known scientists who have written in support of **Group Selection**:
 
-<!-- Radio Buttons -->
-<label><input type="radio" name="filter" onclick="filterList('group_selection')"> Authors who view aging as a group-selected adaptation</label><br>
-<label><input type="radio" name="filter" onclick="filterList('others')"> All Authors</label>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Group Selection Scientists</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            padding: 20px;
+            line-height: 1.6;
+        }
 
-<!-- Author List -->
-<ul id="author-list">
-    <li data-category="group_selection">
-        ### August Weismann (1834 – 1914)
-        August Weismann was the first to distinguish between the **germline** (reproductive cells) and the **soma** (body cells), and the first to argue that aging was an **evolutionary adaptation**. He argued that aging helps ensure turnover in populations, which benefits the group by making room for younger individuals, thus promoting the evolutionary success of the species as a whole.
-    </li>
-    <li data-category="others">
-        ### V. C. Wynne-Edwards (1906 – 1997)
-        V. C. Wynne-Edwards was a prominent advocate of group selection in evolutionary theory. In his influential work, *Animal Dispersion in Relation to Social Behaviour* (1962), he argued that behaviors and traits in animals could evolve for the benefit of the group. It’s unclear if he linked aging to this context.
-    </li>
-    <li data-category="others">
-        ### George Price  (1922 – 1975)
-        George Price was a mathematician and evolutionary biologist who developed the Price equation, explaining how traits benefiting groups could evolve. He believed individual selection was stronger, though altruistic behaviors could evolve if they enhanced group survival.
-    </li>
-    <li data-category="group_selection">
-        ### William R. Clark (1938 - )
-        William Clark, a Professor of Immunology, explored the evolutionary origins of death and aging. He argued that aging and death were byproducts of sexual reproduction, framing them as mechanisms that benefit species survival.
-    </li>
-    <li data-category="others">
-        ### Michael E. Gilpin (1938–2000)
-        Michael Gilpin was known for his work on metapopulation dynamics and group selection but did not specifically link aging to these concepts.
-    </li>
-    <li data-category="others">
-        ### David Sloan Wilson (1949 - )
-        David Sloan Wilson is a strong advocate of group selection, particularly in his book *Onto Others*, but has not focused extensively on aging in this context.
-    </li>
-    <li data-category="others">
-        ### Michael Wade
-        Michael Wade has worked extensively on the theory of group selection but has not specifically addressed aging in his work.
-    </li>
-    <li data-category="others">
-        ### John Pepper
-        John Pepper has contributed to evolutionary biology and group selection but hasn’t addressed aging as a group-selected trait.
-    </li>
-    <li data-category="others">
-        ### Lynn Margulis
-        Lynn Margulis was known for her work on symbiosis and evolutionary theory. While her ideas align with group selection, she did not focus on aging.
-    </li>
-    <li data-category="others">
-        ### Charles Goodnight
-        Charles Goodnight has contributed to the theory of group selection, but there is no clear connection to aging in his work.
-    </li>
-    <li data-category="group_selection">
-        ### Ted Goldsmith
-        Ted Goldsmith is an advocate for aging as a programmed process that benefits the group, a view aligned with group selection.
-    </li>
-    <li data-category="group_selection">
-        ### Harold Katcher
-        Harold Katcher has explored aging and suggests it may be a programmed process that serves the group, fitting with group selection ideas.
-    </li>
-    <li data-category="group_selection">
-        ### Josh Mitteldorf
-        Josh Mitteldorf is a strong proponent of the idea that aging is a group-selected trait, arguing that aging benefits the species by promoting turnover and diversity.
-    </li>
-    <li data-category="others">
-        ### Denis Noble
-        Denis Noble is an advocate for systems biology and has written on the topic of aging, though his work doesn't explicitly frame it as a group-selected adaptation.
-    </li>
-</ul>
+        h1 {
+            text-align: center;
+            color: #444;
+        }
+
+        label {
+            display: inline-block;
+            margin-right: 20px;
+            font-size: 1.1rem;
+            cursor: pointer;
+        }
+
+        label input[type="radio"] {
+            margin-right: 10px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            background-color: #fff;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        li h3 {
+            margin-top: 0;
+            color: #2c3e50;
+        }
+
+        li p {
+            margin: 10px 0 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .radio-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Well-Known Scientists and Group Selection</h1>
+
+    <!-- Radio Buttons -->
+    <div class="radio-container">
+        <label><input type="radio" name="filter" onclick="filterList('group_selection')"> Authors who view aging as a group-selected adaptation</label>
+        <label><input type="radio" name="filter" onclick="filterList('others')"> All Authors</label>
+    </div>
+
+    <!-- Author List -->
+    <ul id="author-list">
+        <li data-category="group_selection">
+            <h3>August Weismann (1834 – 1914)</h3>
+            <p>August Weismann was the first to distinguish between the <strong>germline</strong> (reproductive cells) and the <strong>soma</strong> (body cells), and the first to argue that aging was an <strong>evolutionary adaptation</strong>. He argued that aging helps ensure turnover in populations, which benefits the group by making room for younger individuals, thus promoting the evolutionary success of the species as a whole.</p>
+        </li>
+        <li data-category="others">
+            <h3>V. C. Wynne-Edwards (1906 – 1997)</h3>
+            <p>V. C. Wynne-Edwards was a prominent advocate of group selection in evolutionary theory. In his influential work, <em>Animal Dispersion in Relation to Social Behaviour</em> (1962), he argued that behaviors and traits in animals could evolve for the benefit of the group. It’s unclear if he linked aging to this context.</p>
+        </li>
+        <li data-category="others">
+            <h3>George Price (1922 – 1975)</h3>
+            <p>George Price was a mathematician and evolutionary biologist who developed the Price equation, explaining how traits benefiting groups could evolve. He believed individual selection was stronger, though altruistic behaviors could evolve if they enhanced group survival.</p>
+        </li>
+        <li data-category="group_selection">
+            <h3>William R. Clark (1938 - )</h3>
+            <p>William Clark, a Professor of Immunology, explored the evolutionary origins of death and aging. He argued that aging and death were byproducts of sexual reproduction, framing them as mechanisms that benefit species survival.</p>
+        </li>
+        <li data-category="others">
+            <h3>Michael E. Gilpin (1938–2000)</h3>
+            <p>Michael Gilpin was known for his work on metapopulation dynamics and group selection but did not specifically link aging to these concepts.</p>
+        </li>
+        <li data-category="others">
+            <h3>David Sloan Wilson (1949 - )</h3>
+            <p>David Sloan Wilson is a strong advocate of group selection, particularly in his book <em>Onto Others</em>, but has not focused extensively on aging in this context.</p>
+        </li>
+        <li data-category="others">
+            <h3>Michael Wade</h3>
+            <p>Michael Wade has worked extensively on the theory of group selection but has not specifically addressed aging in his work.</p>
+        </li>
+        <li data-category="others">
+            <h3>John Pepper</h3>
+            <p>John Pepper has contributed to evolutionary biology and group selection but hasn’t addressed aging as a group-selected trait.</p>
+        </li>
+        <li data-category="others">
+            <h3>Lynn Margulis</h3>
+            <p>Lynn Margulis was known for her work on symbiosis and evolutionary theory. While her ideas align with group selection, she did not focus on aging.</p>
+        </li>
+        <li data-category="others">
+            <h3>Charles Goodnight</h3>
+            <p>Charles Goodnight has contributed to the theory of group selection, but there is no clear connection to aging in his work.</p>
+        </li>
+        <li data-category="group_selection">
+            <h3>Ted Goldsmith</h3>
+            <p>Ted Goldsmith is an advocate for aging as a programmed process that benefits the group, a view aligned with group selection.</p>
+        </li>
+        <li data-category="group_selection">
+            <h3>Harold Katcher</h3>
+            <p>Harold Katcher has explored aging and suggests it may be a programmed process that serves the group, fitting with group selection ideas.</p>
+        </li>
+        <li data-category="group_selection">
+            <h3>Josh Mitteldorf</h3>
+            <p>Josh Mitteldorf is a strong proponent of the idea that aging is a group-selected trait, arguing that aging benefits the species by promoting turnover and diversity.</p>
+        </li>
+        <li data-category="others">
+            <h3>Denis Noble</h3>
+            <p>Denis Noble is an advocate for systems biology and has written on the topic of aging, though his work doesn't explicitly frame it as a group-selected adaptation.</p>
+        </li>
+    </ul>
+</div>
 
 <script>
 function filterList(category) {
@@ -82,6 +152,10 @@ function filterList(category) {
     }
 }
 </script>
+
+</body>
+</html>
+
 
 
 
