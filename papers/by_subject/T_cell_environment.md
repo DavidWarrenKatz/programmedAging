@@ -16,7 +16,7 @@ The study highlights a critical mechanism by which aging contributes to immune d
 *Caption*: A visual representation of the impaired differentiation process of CD4+ T follicular helper cells in aged microenvironments.
 
 ### [**Defective Transcriptional Programming of Effector CD8 T Cells in Aged Mice Is Cell-Extrinsic and Can Be Corrected by Administration of IL-12 and IL-18**](https://www.frontiersin.org/articles/10.3389/fimmu.2021.755454/full)  
-**Mladen Jergović, Heather L. Thompson, Kristin R. Renkema, Megan J. Smithey, Janko Nikolich-Žugich, Frontiers in Immunology, 2021**
+**Mladen Jergović, et al. and Janko Nikolich-Žugich, Frontiers in Immunology, 2021**
 
 **Summary**:  
 This paper investigates the defective transcriptional programming of effector CD8 T cells in aged mice and shows that this dysfunction is due to extrinsic factors rather than intrinsic defects in the cells themselves. The study reveals that the administration of IL-12 and IL-18 can restore the transcriptional programming and function of these CD8 T cells, improving immune responses in aged mice.
