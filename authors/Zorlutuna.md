@@ -7,7 +7,7 @@ Pinar Zorlutuna is known for the effects of aging on cells and the extracellular
 ## Key Publications
 
 ### 1. [**Effect of cellular and ECM aging on human iPSC-derived cardiomyocyte performance, maturity, and senescence**](https://www.sciencedirect.com/science/article/abs/pii/S0142961220308000)
-**Pinar Zorlutuna et al., Biomaterials, 2020**  
+**S. Gulberk Ozcebe, Pinar Zorlutuna et al., Biomaterials, 2020**  
 
 **Summary**:  
 This paper investigates the impact of both cellular and ECM aging on the functionality, maturation, and senescence of human induced pluripotent stem cell (iPSC)-derived cardiomyocytes. Zorlutuna and her team found that aging in both cells and ECM impairs the performance of these cardiomyocytes, leading to diminished cardiac functionality and promoting signs of cellular senescence. This work suggests that rejuvenating either the cells or the ECM could improve cardiomyocyte performance, with potential implications for aging-related cardiovascular diseases.
