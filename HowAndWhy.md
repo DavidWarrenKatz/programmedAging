@@ -41,7 +41,7 @@ There are clear examples of programmed aging in nature, such as the sudden death
 <h2 style="text-align: center;">Do Not Ask Why Aging Video</h2>
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=zhbOo_INMwg&t=95s&ab_channel=CuringAging" target="_blank" style="text-decoration: none;">
-    <img src="images/Programmed_Aging_Thumbnail.png" alt="Intro To Programmed Aging Video" style="width: 50%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="images/thumbnail_do_not_ask_why.png" alt="Intro To Programmed Aging Video" style="width: 50%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </a>
 </div>
 
