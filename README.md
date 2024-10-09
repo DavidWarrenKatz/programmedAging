@@ -16,6 +16,8 @@ Currently, all aging research works under the hypothesis that old bodies are wor
 
 [Hypotheses](Hypotheses.md)
 
+[Papers](https://davidwarrenkatz.github.io/programmedAging/papers/directory.html)
+
 <h2 style="text-align: center;">Intro to Programmed Aging Video</h2>
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=38iEeAZEtwc&ab_channel=CuringAging" target="_blank" style="text-decoration: none;">
