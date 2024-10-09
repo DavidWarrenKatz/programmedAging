@@ -20,16 +20,3 @@ This research provides a deeper understanding of how the aging environment compr
 *Caption*: Image illustrating the restoration of CD8 T cell effector function after the administration of IL-12 and IL-18 in aged mice, from the study.
 
 ---
-
-### 2. [**Aging of the Immune System: Focus on Inflammation and T Cell Regulation**](https://www.jimmunol.org/content/early/2020/06/24/jimmunol.1900119)
-**Janko Nikolich-Žugich, The Journal of Immunology, 2020**
-
-**Summary**:  
-In this review article, Nikolich-Žugich explores how aging affects the immune system, with particular emphasis on the roles of chronic inflammation (inflammaging) and the dysregulation of T cells. The paper discusses how age-related changes in immune cell composition and function contribute to increased susceptibility to infections, autoimmunity, and cancer. The review also covers potential strategies to rejuvenate the aging immune system, including lifestyle interventions and immune-modulating therapies.
-
-**Commentary**:  
-This comprehensive review highlights the complex interplay between inflammation and immune regulation in aging, emphasizing the need for targeted approaches to mitigate age-related immune decline. Nikolich-Žugich suggests that balancing immune activity, rather than merely enhancing it, may be key to promoting healthy aging and preventing the detrimental effects of chronic inflammation on the immune system.
-
-**Image**:  
-![Image from Paper](https://example.com/path-to-image)  
-*Caption*: Diagram summarizing the key mechanisms of immune aging and potential interventions to mitigate age-related immune decline, from the review article.
