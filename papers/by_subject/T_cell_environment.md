@@ -15,7 +15,7 @@ The study highlights a critical mechanism by which aging contributes to immune d
 ![Image from Paper](https://example.com/path-to-image)  
 *Caption*: A visual representation of the impaired differentiation process of CD4+ T follicular helper cells in aged microenvironments.
 
-### [**Defective Transcriptional Programming of Effector CD8 T Cells in Aged Mice Is Cell-Extrinsic and Can Be Corrected by Administration of IL-12 and IL-18**](https://www.frontiersin.org/articles/10.3389/fimmu.2021.755454/full)  
+### [**Defective Transcriptional Programming of Effector CD8 T Cells in Aged Mice Is Cell-Extrinsic and Can Be Corrected by Administration of IL-12 and IL-18**](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2019.02206/full#supplementary-material)  
 **Mladen Jergović, et al. and Janko Nikolich-Žugich, Frontiers in Immunology, 2021**
 
 **Summary**:  
