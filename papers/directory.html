@@ -8,9 +8,28 @@
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
+            background-color: #f4f4f4;
         }
         h1 {
             color: #333;
+        }
+        .category {
+            margin: 10px 0;
+        }
+        label {
+            font-size: 1.2em;
+        }
+        select {
+            font-size: 1.1em;
+            padding: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+            font-size: 1.1em;
         }
         a {
             color: #0066cc;
@@ -19,16 +38,53 @@
         a:hover {
             text-decoration: underline;
         }
+        .paper-list {
+            display: none;
+        }
     </style>
+    <script>
+        function showPapers() {
+            var category = document.getElementById("category").value;
+            var paperLists = document.querySelectorAll('.paper-list');
+            
+            paperLists.forEach(function(list) {
+                list.style.display = 'none';
+            });
+
+            if (category !== "all") {
+                document.getElementById(category).style.display = 'block';
+            } else {
+                paperLists.forEach(function(list) {
+                    list.style.display = 'block';
+                });
+            }
+        }
+    </script>
 </head>
 <body>
 
     <h1>Papers by Author</h1>
     
-    <ul>
-        <li><a href="https://davidwarrenkatz.github.io/programmedAging/papers/by_author/Amon.md" target="_blank">Angelika Amon</a></li>
-        <li><a href="https://davidwarrenkatz.github.io/programmedAging/papers/by_author/Simons.md" target="_blank">Mirre J. P. Simons</a></li>
-        <li><a href="https://davidwarrenkatz.github.io/programmedAging/papers/by_author/Zorlutuna.md" target="_blank">Pinar Zorlutuna</a></li>
+    <div class="category">
+        <label for="category">Select a category:</label>
+        <select id="category" onchange="showPapers()">
+            <option value="all">All Authors</option>
+            <option value="cell-biology">Cell Biology</option>
+            <option value="aging-research">Aging Research</option>
+            <option value="tissue-engineering">Tissue Engineering</option>
+        </select>
+    </div>
+
+    <ul id="cell-biology" class="paper-list">
+        <li><a href="https://davidwarrenkatz.github.io/programmedAging/papers/by_author/Amon.md" target="_blank">Angelika Amon</a> (Cell Biology)</li>
+    </ul>
+
+    <ul id="aging-research" class="paper-list">
+        <li><a href="https://davidwarrenkatz.github.io/programmedAging/papers/by_author/Simons.md" target="_blank">Mirre J. P. Simons</a> (Aging Research)</li>
+    </ul>
+
+    <ul id="tissue-engineering" class="paper-list">
+        <li><a href="https://davidwarrenkatz.github.io/programmedAging/papers/by_author/Zorlutuna.md" target="_blank">Pinar Zorlutuna</a> (Tissue Engineering)</li>
     </ul>
 
 </body>
