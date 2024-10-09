@@ -38,5 +38,12 @@ The two schools of thought on how aging happens are compatible with both schools
 
 There are clear examples of programmed aging in nature, such as the sudden death after reproduction in semelparous animals and monocarpic plants. The theory that aging is the result of active self-destruction pathways suggests important hypotheses. These hypotheses are non-falsifiable. If we look somewhere and do not find an aging clock, we have no way of knowing whether there is no clock or we just did not look hard enough. The only way such an existence statement can be proven is by finding the clock. However, the existence of many important biological phenomena, such as programmed cell death, also started as non-falsifiable hypotheses. 
 
+<h2 style="text-align: center;">Do Not Ask Why Aging Video</h2>
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=zhbOo_INMwg&t=95s&ab_channel=CuringAging" target="_blank" style="text-decoration: none;">
+    <img src="images/Programmed_Aging_Thumbnail.png" alt="Intro To Programmed Aging Video" style="width: 50%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </a>
+</div>
+
 You can read more about hypotheses suggested by the programmed theory of aging in our [Hypotheses](Hypotheses(inprogress).md) file. 
 
