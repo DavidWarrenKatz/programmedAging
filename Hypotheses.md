@@ -15,6 +15,6 @@ Programmed theories of aging explain rejuvenation as turning back the biological
 - [Experiment 1](https://github.com/DavidWarrenKatz/programmedAging/blob/main/experiments/serial_transfer_Tcell.md): Serial T Cell Transfer
 - [Experiment 2](https://github.com/DavidWarrenKatz/programmedAging/blob/main/experiments/ECM_rejuvenation.md): Rejuvenation of ECM with Young Cells
 
-***4. There may be two distinct aging programs: a sudden death program and a gradual aging program.***
-Organisms age in order to transition them into the grandfatherly role in their populations. This may imply there other mechanisms of evolution other than natural selection. This would explain the increasing hazard rates seen in J W Vaupel's medfly experiment. 
+***4. There are two distinct self-destruction programs: a sudden death program and a gradual aging program.***
+The sudden-death program is designed to ensure organisms have a maximum lifespan, and the gradual aging program is designed in order to transition organisms into the grandfatherly role in their populations. This may imply there other mechanisms of evolution other than natural selection. This would explain the increasing hazard rates seen in J W Vaupel's medfly experiment. 
 - [Authors Writing About Group Selection](Group_Selection_Supporters.html)
