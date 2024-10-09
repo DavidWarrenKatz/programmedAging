@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Papers by Author</title>
+    <title>Papers by Author and Subject</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -12,6 +12,17 @@
         }
         h1 {
             color: #333;
+        }
+        .container {
+            display: flex;
+            gap: 20px;
+        }
+        .column {
+            flex: 1;
+            padding: 10px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
         }
         .category {
             margin: 10px 0;
@@ -39,7 +50,7 @@
             text-decoration: underline;
         }
         .paper-list {
-            display: block; /* Show all authors by default */
+            display: block;
         }
         .home-link {
             margin-bottom: 20px;
@@ -48,14 +59,26 @@
         }
     </style>
     <script>
-        function showPapers() {
-            var category = document.getElementById("category").value;
-            var papers = document.querySelectorAll('li');
+        function showPapersByAuthor() {
+            var category = document.getElementById("category-author").value;
+            var papers = document.querySelectorAll('.column-left li');
 
             papers.forEach(function(paper) {
-                paper.style.display = 'none'; // Hide all papers
+                paper.style.display = 'none';
                 if (category === 'all' || paper.classList.contains(category)) {
-                    paper.style.display = 'block'; // Show papers that match the selected category
+                    paper.style.display = 'block';
+                }
+            });
+        }
+
+        function showPapersBySubject() {
+            var category = document.getElementById("category-subject").value;
+            var papers = document.querySelectorAll('.column-right li');
+
+            papers.forEach(function(paper) {
+                paper.style.display = 'none';
+                if (category === 'all' || paper.classList.contains(category)) {
+                    paper.style.display = 'block';
                 }
             });
         }
@@ -63,40 +86,81 @@
 </head>
 <body>
 
-    <!-- Add Home link -->
     <a class="home-link" href="index.html">Home</a>
 
-    <h1>Papers by Author</h1>
-    
-    <div class="category">
-        <label for="category">Select a category:</label>
-        <select id="category" onchange="showPapers()">
-            <option value="all">All Authors</option>
-            <option value="mitochondria">Mitochondria</option>
-            <option value="aging-research">Aging Research</option>
-            <option value="extracellular-matrix">Extracellular Matrix</option>
-            <option value="immune-aging">Immune Aging</option>
-            <option value="cellular-memory">Cellular Memory</option>
-        </select>
-    </div>
+    <h1>Papers by Author and Subject</h1>
 
-    <ul class="paper-list">
-        <li class="aging-research">
-            <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Amon.md" target="_blank">Angelika Amon</a> 
-        </li>
-        <li class="aging-research">
-            <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Simons.md" target="_blank">Mirre J. P. Simons</a> 
-        </li>
-        <li class="aging-research extracellular-matrix">
-            <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Zorlutuna.md" target="_blank">Pinar Zorlutuna</a>
-        </li>
-        <li class="aging-research immune-aging">
-            <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Nikolich.md" target="_blank">Janko Nikolic</a> 
-        </li>
-        <li class="cellular-memory">
-            <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Barral.md" target="_blank">Yves Barral</a> 
-        </li>
-    </ul>
+    <div class="container">
+        <!-- Left Column: Papers by Author -->
+        <div class="column column-left">
+            <h2>Papers by Author</h2>
+            
+            <div class="category">
+                <label for="category-author">Select a category:</label>
+                <select id="category-author" onchange="showPapersByAuthor()">
+                    <option value="all">All Authors</option>
+                    <option value="mitochondria">Mitochondria</option>
+                    <option value="aging-research">Aging Research</option>
+                    <option value="extracellular-matrix">Extracellular Matrix</option>
+                    <option value="immune-aging">Immune Aging</option>
+                    <option value="cellular-memory">Cellular Memory</option>
+                </select>
+            </div>
+
+            <ul class="paper-list">
+                <li class="aging-research">
+                    <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Amon.md" target="_blank">Angelika Amon</a> 
+                </li>
+                <li class="aging-research">
+                    <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Simons.md" target="_blank">Mirre J. P. Simons</a> 
+                </li>
+                <li class="aging-research extracellular-matrix">
+                    <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Zorlutuna.md" target="_blank">Pinar Zorlutuna</a>
+                </li>
+                <li class="aging-research immune-aging">
+                    <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Nikolich.md" target="_blank">Janko Nikolic</a> 
+                </li>
+                <li class="cellular-memory">
+                    <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Barral.md" target="_blank">Yves Barral</a> 
+                </li>
+            </ul>
+        </div>
+
+        <!-- Right Column: Papers by Subject -->
+        <div class="column column-right">
+            <h2>Papers by Subject</h2>
+
+            <div class="category">
+                <label for="category-subject">Select a category:</label>
+                <select id="category-subject" onchange="showPapersBySubject()">
+                    <option value="all">All Subjects</option>
+                    <option value="cell-death">Cell Death</option>
+                    <option value="genome-instability">Genome Instability</option>
+                    <option value="epigenetics">Epigenetics</option>
+                    <option value="stem-cells">Stem Cells</option>
+                    <option value="immune-system">Immune System</option>
+                </select>
+            </div>
+
+            <ul class="paper-list">
+                <li class="cell-death">
+                    <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_subject/cell_death.md" target="_blank">Programmed Cell Death</a> 
+                </li>
+                <li class="genome-instability">
+                    <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_subject/genome_instability.md" target="_blank">Genome Instability and Aging</a> 
+                </li>
+                <li class="epigenetics">
+                    <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_subject/epigenetics.md" target="_blank">Epigenetics and Aging</a>
+                </li>
+                <li class="stem-cells">
+                    <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_subject/stem_cells.md" target="_blank">Stem Cells and Regeneration</a> 
+                </li>
+                <li class="immune-system">
+                    <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_subject/immune_system.md" target="_blank">Aging of the Immune System</a>
+                </li>
+            </ul>
+        </div>
+    </div>
 
 </body>
 </html>
