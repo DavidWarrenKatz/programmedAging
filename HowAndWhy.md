@@ -45,5 +45,5 @@ There are clear examples of programmed aging in nature, such as the sudden death
   </a>
 </div>
 
-You can read more about hypotheses suggested by the programmed theory of aging in our [Hypotheses](Hypotheses(inprogress).md) file. 
+You can read more about hypotheses suggested by the programmed theory of aging in our [Hypotheses](Hypotheses.md) file. 
 
