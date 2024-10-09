@@ -39,25 +39,20 @@
             text-decoration: underline;
         }
         .paper-list {
-            display: none;
+            display: block; /* Show all authors by default */
         }
     </style>
     <script>
         function showPapers() {
             var category = document.getElementById("category").value;
-            var paperLists = document.querySelectorAll('.paper-list');
-            
-            paperLists.forEach(function(list) {
-                list.style.display = 'none';
-            });
+            var papers = document.querySelectorAll('li');
 
-            if (category !== "all") {
-                document.getElementById(category).style.display = 'block';
-            } else {
-                paperLists.forEach(function(list) {
-                    list.style.display = 'block';
-                });
-            }
+            papers.forEach(function(paper) {
+                paper.style.display = 'none'; // Hide all papers
+                if (category === 'all' || paper.classList.contains(category)) {
+                    paper.style.display = 'block'; // Show papers that match the selected category
+                }
+            });
         }
     </script>
 </head>
@@ -75,17 +70,21 @@
         </select>
     </div>
 
-    <ul id="cell-biology" class="paper-list">
-        <li><a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Amon.md" target="_blank">Angelika Amon</a> (Cell Biology)</li>
-    </ul>
-
-    <ul id="aging-research" class="paper-list">
-        <li><a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Simons.md" target="_blank">Mirre J. P. Simons</a> (Aging Research)</li>
-    </ul>
-
-    <ul id="tissue-engineering" class="paper-list">
-        <li><a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Zorlutuna.md" target="_blank">Pinar Zorlutuna</a> (Tissue Engineering)</li>
+    <ul class="paper-list">
+        <li class="cell-biology aging-research">
+            <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Amon.md" target="_blank">Angelika Amon</a> (Cell Biology, Aging Research)
+        </li>
+        <li class="aging-research">
+            <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Simons.md" target="_blank">Mirre J. P. Simons</a> (Aging Research)
+        </li>
+        <li class="tissue-engineering">
+            <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/Zorlutuna.md" target="_blank">Pinar Zorlutuna</a> (Tissue Engineering)
+        </li>
+        <li class="cell-biology tissue-engineering">
+            <a href="https://github.com/DavidWarrenKatz/programmedAging/blob/main/papers/by_author/AnotherAuthor.md" target="_blank">Another Author</a> (Cell Biology, Tissue Engineering)
+        </li>
     </ul>
 
 </body>
 </html>
+
