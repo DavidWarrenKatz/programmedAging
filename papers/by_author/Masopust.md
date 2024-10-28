@@ -1,6 +1,6 @@
 # David Masopust
 
-David Masopust is a biologist recognized for his work in immunology, particularly in understanding T cell biology, memory, and function. His research explores how T cells adapt and persist, with implications for therapies and vaccines.
+David Masopust is a biologist recognized for his work in immunology, particularly in understanding T cell biology, memory, and function. 
 
 ---
 
