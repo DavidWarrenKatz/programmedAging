@@ -7,14 +7,17 @@ David Masopust is a biologist recognized for his work in immunology, particularl
 ## Key Publications
 
 ### 1. [**Functional T cells are capable of supernumerary cell division and longevity**](https://www.nature.com/articles/s41586-022-05626-9)
-**David Masopust et al., Nature, 2022**  
+**Andrew G. Soerens et al. and David Masopust, Nature, 2022**  
 
 **Summary**:  
-In this study, the authors investigate the ability of T cells to undergo extensive cell divisions beyond their initial antigen-driven response. They demonstrate that T cells retain the capability for numerous divisions throughout their lifespan, which contributes to their longevity and sustained immune function. The research highlights that these divisions are not merely a result of external signals but are an intrinsic capacity of T cells. This discovery provides insights into the long-term maintenance of T cell populations and their role in immune memory and disease prevention.
+The authors activated mouse CD8+ T cells in vivo using a heterologous prime–boost–boost vaccination strategy. Expanded cells from middle-aged (~1 year old) mice were transferred to younger (8–10 weeks old) mice, and this process was repeated iteratively with the same T cells. Remarkably, over 10 years, these T cells retained their ability to respond to vaccination at levels comparable to young endogenous T cells. Some of the original T cells expanded by at least 10^40-fold during this period, far exceeding the normal proliferative and longevity capacities of T cells. Despite this unprecedented expansion and longevity, the T cells did not become cancerous but did display some signs of exhaustion, such as the expression of the ‘senescence marker’ KLRG1.
+
 
 **Commentary**:  
-This work challenges the conventional understanding that T cells have limited replicative potential after their initial activation. By showing that T cells can divide beyond what was previously thought, it opens up avenues for enhancing immune therapies, particularly in the context of chronic infections and cancer. It suggests that therapeutic strategies could aim to harness or boost this intrinsic capacity for division, potentially leading to more effective long-term immune responses.
+I hypothesize that the important factor is number of days in the young body, not the number of days between immunizations. The authors, on the other hand, believe the number of days between immunizations and the T cells' need to rest is the iportant factor in determining their rejuventaion. This could be tested by allowing the T cells to be in the body for a longer before the short immunization periods. However, T cells self-destruct after immune stimulation, which is likely why the authors  
+
 
 **Image**:  
-![Image from Paper](https://example.com/path-to-image)  
+![Figure1A](/programmedAging/images/papers/Masopust/Figure1A.png)  
+
 *Caption*: A graphical representation from the study showing the prolonged division capability of T cells over time. The image highlights the self-sustaining nature of T cell populations and their contribution to long-term immune memory.
