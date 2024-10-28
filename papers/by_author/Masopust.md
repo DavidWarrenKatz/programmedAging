@@ -24,7 +24,7 @@ I hypothesize that the important factor is number of days in the young body, not
         <p><strong>Figure 1A</strong></p>
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="../../images/papers/Masopust/Figure1C.png" alt="Figure1C" style="width: 100%; height: auto;">
+        <img src="../../images/papers/Masopust/Figure1C.png" alt="Figure1C" style="width: 50%; height: auto;">
         <p><strong>Figure 1C</strong></p>
     </div>
 </div>
