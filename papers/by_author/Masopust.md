@@ -4,7 +4,7 @@ David Masopust is a biologist recognized for his work in immunology, particularl
 
 ---
 
-## Key Publications
+## Publications
 
 ### 1. [**Functional T cells are capable of supernumerary cell division and longevity**](https://www.nature.com/articles/s41586-022-05626-9)
 **Andrew G. Soerens et al. and David Masopust, Nature, 2022**  
