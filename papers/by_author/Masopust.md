@@ -18,6 +18,6 @@ I hypothesize that the important factor is number of days in the young body, not
 
 
 **Image**:  
-![Figure1A](/programmedAging/images/papers/Masopust/Figure1A.png)  
+![Figure1A](/programmedAging/images/papers/Masopust/Figure1A.png)
 
 *Caption*: A graphical representation from the study showing the prolonged division capability of T cells over time. The image highlights the self-sustaining nature of T cell populations and their contribution to long-term immune memory.
