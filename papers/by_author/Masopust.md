@@ -18,13 +18,13 @@ I hypothesize that the important factor is number of days in the young body, not
 
 
 **Image**:  
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="flex: 1; margin-right: 10px; text-align: center;">
-        <img src="../../images/papers/Masopust/Figure1A.png" alt="Figure1A" style="width: 50%; max-width: 400px; height: auto;">
+<div style="display: flex; align-items: center;">
+    <div style="flex: 2; margin-right: 10px; text-align: center;">
+        <img src="../../images/papers/Masopust/Figure1A.png" alt="Figure1A" style="width: 100%; height: auto;">
         <p><strong>Figure 1A</strong></p>
     </div>
-    <div style="flex: 1; margin-left: 10px; text-align: center;">
-        <img src="../../images/papers/Masopust/Figure1C.png" alt="Figure1C" style="width: 50%; max-width: 400px; height: auto;">
+    <div style="flex: 1; text-align: center;">
+        <img src="../../images/papers/Masopust/Figure1C.png" alt="Figure1C" style="width: 100%; height: auto;">
         <p><strong>Figure 1C</strong></p>
     </div>
 </div>
