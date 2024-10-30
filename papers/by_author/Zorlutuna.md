@@ -12,7 +12,7 @@ Pinar Zorlutuna is known for the effects of aging on cells and the extracellular
 **Summary**:  
 A previous study by the authors showed that human iPSC-derived cardiomyocytes (hiCMs) went through accelerated senescence in culture so that 4 months in culture  resembled 65-year-old human cardiac tissue. In this study, the authors seeded aged and young hiCMs on decellularized heart ECMs from mice of three age groups (1–3 month, 6–9 months, and 22–24 months). The young ECM rejuvenated the aged hiCMs in terms of proliferation markers, sarcomere length, ROS generation, and lipofuscin accumulation. The old ECM, on the other hand, accelerated markers of aging in young hiCMs. Overall, young hiCMs were more repsonsive to changes in the ECM than old hiCMs. 
 
-### Key Questions & Ideas for Further Exploration
+### Questions 
 
 - **Control with Native Cardiomyocytes**:
   - Did the authors attempt this experiment with normal young and old cardiomyocytes rather than hiCMs? If not, what were the reasons?
