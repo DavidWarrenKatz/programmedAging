@@ -26,3 +26,12 @@ The authors activated mouse CD8+ T cells in vivo using a heterologous prime–bo
 
 **Commentary**:  
 I hypothesize that the critical factor is the number of days the T cells spend in a young body, rather than the interval between immunizations. The authors, however, suggest that the time between immunizations and the need for T cells to rest are the key factors in their rejuvenation. This could be tested by allowing the T cells to remain in the young body for a longer period before administering the short immunization intervals. However, T cells tend to self-destruct after immune stimulation, which may be why the authors chose to transfer and vaccinate the young mice immediately after the previous vaccination. Notably, the immune response peaked following the third stimulation in each mouse, despite the CD8+ T cells being exposed to the stimulants multiple times before. This suggests that the CD8+ T cell response relies on signals from the entire immune system rather than simply repeated exposure.
+
+**Suggested Further Experiments**
+To further explore the role of immune signaling in the iterative rejuvenation of CD8+ T cells, I suggest to co-transfer of CD4+ T cells alongside CD8+ T cells. By assessing the influence of CD4+ T cells on the functional longevity and responsiveness of CD8+ T cells, this setup could reveal any cross-signaling effects essential for sustained immune capacity. This would also allow for an analysis of differences in the RNA-seq expression profiles of CD8+ T cells when co-transferred with CD4+ cells versus independently transferred.
+
+--- 
+
+
+
+
