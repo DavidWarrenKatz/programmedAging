@@ -14,8 +14,11 @@ A previous study by the authors showed that human iPSC-derived cardiomyocytes (h
 
 ### Questions 
 
-- **Control with Native Cardiomyocytes**:
+- **Control with Natural Cardiomyocytes**:
   - Did the authors attempt this experiment with normal young and old cardiomyocytes rather than hiCMs? If not, what were the reasons?
+ 
+- **Accelerated Aging in iPSC**:
+  - Is the accelerated aging in IPSCs surprising?
 
 - **Rejuvenating Effects of Young Cells on Aged ECM**:
   - Do young hiCMs have a rejuvenating effect on aged ECM? Are there studies exploring this potential interaction?
