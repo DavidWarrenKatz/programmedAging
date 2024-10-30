@@ -32,7 +32,7 @@ A previous study by the authors showed that human iPSC-derived cardiomyocytes (h
 **Commentary**:  
 
 **Image**:  
-![Figure3c](../../images/papers/Zorlutuna/Figure3c.png)  
+![Figure3c](../../images/papers/Zorlutuna/Figure3C.png)  
 *Caption*: 
 
 ---
