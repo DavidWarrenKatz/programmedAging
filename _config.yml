@@ -1,0 +1,7 @@
+title: "Your Site Title"
+description: "A description of your site"
+baseurl: "/programmedAging"  # Set this to your repository name
+url: "https://davidwarrenkatz.github.io"  # Your GitHub Pages domain
+markdown: kramdown  # Ensure Markdown rendering
+plugins:
+  - jekyll-feed
