@@ -18,7 +18,7 @@ The authors generated a multi-omics (mainly just scRNA-Seq) single cell dataset 
 scRNA was performed on approximately 35,000 cells from four tissues (spleen, peritoneom, lungs, liver) and two age-points (3-6 months and 17-24 months) in six male C57BL/6J mice. For each tissue, highly variable genes were selected and then dimensionality reduction was performed on variable genes to call cell-type clusters. Within each cluster, subclusters were called by measuring expression levels of a list of marker genes. For each subcluster, differential expression analysis for each of the two timepoints was performed. Gzmk+ CD8+ T cells were identifed as being significantly upregulated in old age mice in all four tissues by this analysis. 
 
 **Validating Aging Associated Populations with Flow Cytometry**:  
-![Figure3c](../../images/papers/Artyomov/Figure2ABC.png)  
+![Figure3c](../../images/papers/Artyomov/Figure2A-G.png)  
 
 Flow cytometry on an independent cohort of mice to seperate cells by type, followed by another round of scRNA-Seq. 
 
