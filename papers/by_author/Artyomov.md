@@ -20,7 +20,7 @@ scRNA was performed on approximately 35,000 cells from four tissues (spleen, per
 **Validating Aging Associated Populations with Flow Cytometry**:  
 ![Figure3c](../../images/papers/Artyomov/Figure2A-G.png)  
 
-Flow cytometry on an independent cohort of mice to seperate cells by type, followed by another round of scRNA-Seq. 
+Some of the age-association population changes could be confirmed by flow cytometry, such as the depletion of peritoneum macrophages. For example, in Figure 2A, flow cytometry on an independent cohort of mice was used to seperate macrophages and dendritic cells, and then a new round of scRNA-Seq was performed on the macrophages and dendritic cells. ICAM2 expression was specific to peritoneal macrophages and dendritic cells, and flow cytometry confirmed a significant decrease in ICAM2+ macrophages in the mouse peritoneum with age (Figure 2C).   
 
 
 
