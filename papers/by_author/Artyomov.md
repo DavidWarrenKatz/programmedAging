@@ -24,6 +24,10 @@ Some of the age-association population changes could be confirmed by flow cytome
 
 Contrary to the CD4+ T cells, the authors observed an increased clonality among aged CD8+ T cells that was concentrated within the CD8+ Taa cell clusters.  Remarkably, identical TCR clones were found simultaneously in different organs in aged, but not in young mice.
 
+The authors showed that GZMK has the potential to exacerbate the SASP alone or in combination with IFNγ in mouse 3T3 fibroblasts.
+
+
+
 **Commentary**:  
 This research significantly advances our understanding of the immune components contributing to inflammaging, particularly the role of clonal expansions in CD8+ T cells. The identification of conserved markers like GZMK+ CD8+ T cells opens avenues for developing therapeutic strategies aimed at modulating immune function in aging populations. This work underscores the potential for rejuvenating immune responses by selectively targeting cells that drive chronic inflammation without affecting the broader immune functionality.
 
