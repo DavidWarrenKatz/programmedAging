@@ -33,7 +33,7 @@ I hypothesize that the critical factor is the number of days the T cells spend i
 
 To further explore the role of immune signaling in the iterative rejuvenation of CD8+ T cells, I suggest to co-transfer of CD4+ T cells alongside CD8+ T cells. By assessing the influence of CD4+ T cells on the functional longevity and responsiveness of CD8+ T cells, this setup could reveal any cross-signaling effects essential for sustained immune capacity. This would also allow for an analysis of differences in the RNA-seq expression profiles of CD8+ T cells when co-transferred with CD4+ cells versus independently transferred.
 
-Further questions to think about" Are these iteratively transfered cells migrating? Are they commiting to the memory fate? To what extent are they forgetting that they have seen the infection? Is the immune memory stored in the T cells? How many lymphocytes do we need to transfer before immune memory is transfered? 
+Further questions to think about: Are these iteratively transfered cells migrating? Are they commiting to the memory fate? To what extent are they forgetting that they have seen the infection? Is the immune memory stored in the T cells? How many lymphocytes do we need to transfer before immune memory is transfered? 
 
 --- 
 
