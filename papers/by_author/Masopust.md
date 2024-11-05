@@ -35,6 +35,8 @@ To further explore the role of immune signaling in the iterative rejuvenation of
 
 Further questions to think about: Are these iteratively transfered cells migrating? Are they commiting to the memory fate? To what extent are they forgetting that they have seen the infection? Is the immune memory stored in the T cells? How many lymphocytes do we need to transfer before immune memory is transfered? 
 
+Data Availability: Sequencing data are available through GEO (accession number GSE213230). This includes bulk RNA-seq and bulk ATAC-seq of T cells of female mice at verious stages of the iterative transfer process. 
+
 --- 
 
 
