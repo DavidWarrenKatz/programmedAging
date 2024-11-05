@@ -39,6 +39,8 @@ Further questions to think about: Are these iteratively transfered cells migrati
 
 Sequencing data are available through GEO (accession number GSE213230) (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6576119). This includes bulk RNA-seq and bulk ATAC-seq of T cells of female mice at verious stages of the iterative transfer process. 
 
+Note on batch effect in analysis: The RNA-seq samples were sequenced in two batches. Genes were considered significantly different if log[fold change] > 1 and false discovery rate < 0.05. Heatmaps were generated with the ComplexHeatmap package. We noticed a batch effect between the first and the second run of RNA-seq samples. However, differential gene expression analysis between the two naive groups revealed only few differentially expressed genes, most being undefined genes or ribosomal genes, indicating that the observed batch effect is not confounding our analysis.
+
 --- 
 
 
