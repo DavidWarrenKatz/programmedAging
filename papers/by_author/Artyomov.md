@@ -10,7 +10,7 @@ Maxim N. Artyomov is an immunologist recognized for his research on immune syste
 **Denis Mogilenko et al. and Maxim N. Artyomov, Immunity, 2021**
 
 **Summary**:  
-The authors generated a multi-omics single cell dataset of the immune system and identified a new class of CD8+ T cells that emerges with aging in mice and men. This emergence was then confirmed in public (better quality) datasets as well as heterochronic transfer experiments. These aging-associated CD8+ clonal T cells (Taa) were characterized by their expression of Gzmk as well as their co-expression of the transcription factor TOX (exhaustion) and the checkpoint molecule PD-1. The emergence of this cell population with age could not be confirmed by flow cytometry, but was supported by other approaches. Gzmk was not detected in cells other than this subpopulation of T cells. 
+The authors generated a multi-omics single cell dataset of the immune system and identified a new class of CD8+ T cells that emerges with aging in mice and men. This emergence was then confirmed in public (Kimmel at al. 2019) datasets as well as heterochronic transfer experiments. These aging-associated CD8+ clonal T cells (Taa) were characterized by their expression of Gzmk as well as their co-expression of the transcription factor TOX (exhaustion) and the checkpoint molecule PD-1. The emergence of this cell population with age could not be confirmed by flow cytometry, but was supported by other approaches. Gzmk was not detected in cells other than this subpopulation of T cells. 
 
 **Identifying Gzmk Expressing CD8+ clonal T cells As Emerging With Aging**:  
 ![Figure3c](../../images/papers/Artyomov/Figure1BCD.png)  
@@ -22,7 +22,7 @@ scRNA was performed on approximately 35,000 cells from four tissues (spleen, per
 
 Some of the age-association population changes could be confirmed by flow cytometry, such as the depletion of peritoneum macrophages. For example, in Figure 2A, flow cytometry on an independent cohort of mice was used to seperate macrophages and dendritic cells, and then a new round of scRNA-Seq was performed on the macrophages and dendritic cells. ICAM2 expression was specific to peritoneal macrophages and dendritic cells, and flow cytometry confirmed a significant decrease in ICAM2+ macrophages in the mouse peritoneum with age (Figure 2C).   
 
-Contrary to the CD4+ T cells, the authors observed an increased clonality among aged CD8+ T cells that was concentrated within the CD8+ Taa cell clusters. 
+Contrary to the CD4+ T cells, the authors observed an increased clonality among aged CD8+ T cells that was concentrated within the CD8+ Taa cell clusters.  Remarkably, identical TCR clones were found simultaneously in different organs in aged, but not in young mice.
 
 **Commentary**:  
 This research significantly advances our understanding of the immune components contributing to inflammaging, particularly the role of clonal expansions in CD8+ T cells. The identification of conserved markers like GZMK+ CD8+ T cells opens avenues for developing therapeutic strategies aimed at modulating immune function in aging populations. This work underscores the potential for rejuvenating immune responses by selectively targeting cells that drive chronic inflammation without affecting the broader immune functionality.
