@@ -23,6 +23,10 @@ scRNA was performed on approximately 35,000 cells from four tissues (spleen, per
 Some of the age-association population changes could be confirmed by flow cytometry, such as the depletion of peritoneum macrophages. For example, in Figure 2A, flow cytometry on an independent cohort of mice was used to seperate macrophages and dendritic cells, and then a new round of scRNA-Seq was performed on the macrophages and dendritic cells. ICAM2 expression was specific to peritoneal macrophages and dendritic cells, and flow cytometry confirmed a significant decrease in ICAM2+ macrophages in the mouse peritoneum with age (Figure 2C). Contrary to the CD4+ T cells, the authors observed an increased clonality among aged CD8+ T cells that was concentrated within the CD8+ Taa cell clusters.  Remarkably, identical TCR clones were found simultaneously in different organs in aged, but not in young mice. The authors also showed that GZMK has the potential to exacerbate the SASP alone or in combination with IFNγ in mouse 3T3 fibroblasts.
 
 
+**Age-Associated GZMK+ CD8+ T Cell Population Is Highly Clonal. Highly Migratory**
+![Figure3FGH](../../images/papers/Artyomov/Figure3FGH.png) 
+Using scTCRseq, the TCR repertoires among CD8+ T cell subsets were evaluated. Contrary to the CD4+ T cell data, the authors observed an increased clonality among aged CD8+ T cells that was concentrated within the CD8+ Taa cell clusters but not within the Tem subsets (Figures 3F–3H and S3A–S3E). Identical TCR clones were found simultaneously in different organs in aged, but not in young, mice.
+
 **One Month In Old Body Results in Taa Phenotype**
 ![Figure5A](../../images/papers/Artyomov/Figure5A.PNG)  
 Splenic CD8+ T cells were transfered from young mice into young or aged mice (Figure 5A). In aged mice, 1 month post transfer was sufficient to convert circulating donor CD8+ T cells into the TOX+PD-1+ phenotype to the same extent as host CD8+ T cells (Figures 5A–5C), increase expression of CD49d by these cells, and promote their accumulation into various organs (Figures 5D–5F, S5A, and S5B). The authors performed scRNA-seq analysis of donor and host splenic CD8+ T cells.
