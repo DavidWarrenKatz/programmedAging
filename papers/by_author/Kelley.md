@@ -10,7 +10,7 @@ David R. Kelley is a researcher focusing on the molecular and cellular mechanism
 **Jacob C. Kimmel et al. and David R. Kelley,  Adam Z Rosenthal, Genome Research, 2019**
 
 
-
+This dataset was used in Mogilenko et al., 2021 for network analysis and confirmation of clonal GZMK+ CD8+ aging-associated T Cells. 
 
 
 
