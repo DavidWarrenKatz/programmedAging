@@ -7,7 +7,7 @@ David R. Kelley is a researcher focusing on the molecular and cellular mechanism
 ## Key Publications
 
 ### 1. [**Differentiation Reveals Latent Features of Aging and an Energy Barrier in Murine Myogenesis**](https://www.sciencedirect.com/science/article/pii/S2211124721003624?via%3Dihub)
-**David R. Kelley et al., Cell Reports, 2021**
+**Jacob C. Kimmel et al. and David R. Kelley, Cell Reports, 2021**
 
 **Summary**:  
 This study investigates the molecular changes in muscle stem cells (MuSCs) that occur with aging, focusing on how these cells differentiate and the energy requirements for this process. By profiling MuSCs from young and aged mice, Kelley and colleagues uncovered aging-associated transcriptional changes that highlight an energy barrier in the differentiation process. They identified specific gene expression patterns in aged MuSCs that inhibit effective differentiation, suggesting potential molecular targets to restore myogenic function in aged muscles.
