@@ -1,4 +1,4 @@
-# Evidence For Aging As An Active Process of Self-Destruction
+# Evidence For Aging As An Active and Robust Process of Self-Destruction
 
 The most effective methods of extending animal lifespan—caloric restriction, exercise, young blood transfusions, castration, and knocking out certain genes—all revolve around disrupting the body's active pathways, rather than cooperating with the body or clearing damage.  
 Remarkably, old organisms are rejuvenated by young blood, and old blood is toxic to the young organisms [3]. For male organisms, castration leads to significant life extension in worms, flies, mice, and men [4]. Young blood transfusions and castration lead to life extension by interfering with active pathways, not by clearing damage.  
