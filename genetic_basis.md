@@ -6,7 +6,7 @@ An organism’s lifespan has a strong genetic component, as evidenced by the fol
 
 1. **There are often large species-specific differences in lifespan.**
 
-2. **Different genotypes of the same species often have different average lifespans. The most striking example of this in many species is the sex differences in lifespan.**
+2. **Different genotypes of the same species often have different average lifespans. The most striking example of this in many species is the sex difference in lifespan.**
  
 3. **There are often family patterns of lifespan in heterogeneous populations.**
 
