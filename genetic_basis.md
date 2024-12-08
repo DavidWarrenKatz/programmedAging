@@ -1,6 +1,6 @@
 # Genetic Basis of Lifespan 
 
-An organism’s lifespan has a strong genetic component, as evidenced by three key observations: 
+An organism’s lifespan has a strong genetic component, as evidenced by four key observations: 
 
 1. **There are often large species-specific differences in lifespan.**
 
