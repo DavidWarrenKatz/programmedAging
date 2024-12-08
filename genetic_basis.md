@@ -2,7 +2,7 @@ There is an aging program with a large genetic component.
 
 ## Genetic Basis of Lifespan 
 
-An organism’s lifespan has a strong genetic component, as evidenced by four key observations: 
+An organism’s lifespan has a strong genetic component, as evidenced by the following four observations: 
 
 1. **There are often large species-specific differences in lifespan.**
 
