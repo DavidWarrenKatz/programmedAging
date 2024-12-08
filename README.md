@@ -8,11 +8,11 @@ This page serves to summarize the evidence supporting the Programmed Aging theor
 
 Currently, all aging research works under the hypothesis that old bodies are worn out due to accumulated damage. An admirable amount of effort has been dedicated to developing methods of clearing this damage. However, these methods have not yielded any extension in maximal lifespan. The Programmed Aging theory, on the other hand, posits that old bodies are not worn out. Old bodies are, in fact, functioning very well. Just look how well they are running the self-destruction aging programs! The Programmed Aging theory suggests the alternative research program of determining the mechanism of the body’s biological clock. We must discover how the body knows how old it is, and how this clock can be turned back!
 
-[There is an aging program with a large genetic component](genetic_basis.md)
- 
 [The How and Why of Aging](HowAndWhy.md)
 
-[Evidence For Prorammed Aging](Evidence_For_Programmed_Aging.md)
+[There is An Aging Program with a Large Genetic Component](genetic_basis.md)
+
+[The Aging Program Is As An Active And Robust Process of Self-Destruction](Evidence_For_Programmed_Aging.md)
 
 [Hypotheses](Hypotheses.md)
 
