@@ -6,7 +6,7 @@ An organism’s lifespan has a strong genetic component, as evidenced by four ke
 
 2. **Different genotypes of the same species often have different average lifespans. The most striking example of this in many species is the sex differences in lifespan.**
  
-3. **There are often significant family patterns of lifespan in heterogeneous populations.**
+3. **There are often family patterns of lifespan in heterogeneous populations.**
 
 4. **Aging genes —genes that, when knocked out, extend lifespan—have been found in every species in which they have been sought.**
 
