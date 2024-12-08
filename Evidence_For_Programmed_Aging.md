@@ -1,5 +1,17 @@
 # Evidence For Aging As An Active and Robust Process of Self-Destruction
 
+## Aging Is A Stage of Development
+
+There are different stages of old age just as there are different stages of development. 
+
+youngest-old   50-65 years
+old            66-85 years
+oldest-old     86-99 years
+centenarians   100-110
+supecentenarians  111+
+
+The population level risk of getting cancer increases until oldest old, when the population-level risk of getting cancer decreases. Of course, an individual's risk of getting cancer likely still increases every year, but this is hard to measure. On the population level, however, the risk decreases. One explanation is that the oldest-old have an aging program that is running slower. The other explanation is that these individual have survived to the next stage of the program. 
+
 The most effective methods of extending animal lifespan—caloric restriction, exercise, young blood transfusions, castration, and knocking out certain genes—all revolve around disrupting the body's active pathways, rather than cooperating with the body or clearing damage.  
 Remarkably, old organisms are rejuvenated by young blood, and old blood is toxic to the young organisms [3]. For male organisms, castration leads to significant life extension in worms, flies, mice, and men [4]. Young blood transfusions and castration lead to life extension by interfering with active pathways, not by clearing damage.  
 Two other life extension mechanisms are exercise and caloric restriction. No presently available therapeutic or medical technology has shown anywhere near the same effects at extending lifespan as strenuous exercise and drastic caloric restriction. A responsible physician would tell you this. Caloric restriction and exercise lead to life extension by tricking the body into thinking it is in an adverse environment, not by working with the body. Anything your body does in response to exercise and caloric restriction, it could do in well-fed and less active conditions. However, your body is not trying its best to survive. Your body performs best only when it is tricked into thinking there is no risk of overpopulation or is tricked into thinking there is a high risk of death from external causes.  
