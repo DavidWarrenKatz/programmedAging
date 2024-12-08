@@ -4,6 +4,8 @@
 
 An organism’s lifespan has a strong genetic component, as evidenced by the following four observations: 
 
+The program could be written in information embedded in the centrioloes, for example. 
+
 1. **There are often large species-specific differences in lifespan.**
 
 2. **Different genotypes of the same species often have different average lifespans. The most striking example of this in many species is the sex difference in lifespan.**
