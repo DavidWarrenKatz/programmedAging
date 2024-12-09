@@ -4,14 +4,13 @@
 
 Evolution shapes the post-reproductive lifespan of organisms. While evolutionary pressures for survival often diminish after reproduction, this reduction is not arbitrary. Instead, the programmed theory of aging contends that the reduction in survival post reproduction is the result of biological processes that are structured and robust. This is supported by the observation that aging occurs in distinct stages. Just as development is marked by predictable stages, such as embryogenesis and adolescence, aging also progresses through predictable phases. A possible framework for categorizing these stages is as follows:
 
-  <span style="display:inline-block; transform:rotate(-90deg); transform-origin: left top; position:relative; top:1.5em;">(Traditionally described as development)</span>
 - **Embryogenesis**: Fertilization to 8 weeks  
 - **Fetal Stage**: 9 weeks to birth
 - **Infancy**: 0–2 years  
 - **Childhood**: 3–12 years  
 - **Adolescence**: 13–19 years  
 - **Young Adulthood**: 20–39 years  
-  <span style="display:inline-block; transform:rotate(-90deg); transform-origin: left top; position:relative; top:1.5em;">(Traditionally described as aging)</span>
+  <span style="display:inline-block; transform:rotate(-90deg); transform-origin: left top; position:relative; top:1.5em;">(Below are traditionally described as aging)</span>
 - **Adulthood**: 40–49 years  
 - **Youngest-old**: 50–65 years  
 - **Old**: 66–85 years  
