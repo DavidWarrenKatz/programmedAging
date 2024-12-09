@@ -19,7 +19,7 @@ Evolution shapes the post-reproductive lifespan of organisms. While evolutionary
 
 The population-level risk of developing cancer increases until the "old" stage (66–85 years) but begins to decline in the "oldest-old" (86–99 years) [Bonafè, M. et al., 2002]. This phenomenon has two potential explanations:  
 
-1. **There are distinct stages of aging, and each stage has its own individual risk of cancer.**: According to this perspective, the actual individual-level risk of developing cancer decreases in the oldest-old stage of development. This biological slowdown in cancer susceptibility is then reflected in the population-level decrease in cancer risk. This can be compared to the risk of rhuematoid arthritis decreasing at this stage as well. 
+1. **There are distinct stages of aging, and each stage has its own individual risk of cancer.** According to this perspective, the actual individual-level risk of developing cancer decreases in the oldest-old stage of development. This biological slowdown in cancer susceptibility is then reflected in the population-level decrease in cancer risk. This can be compared to the risk of rhuematoid arthritis decreasing at this stage as well. 
 
 2. **There is one stage of aging - the stage where the body is trying but failing to survive.** According to this perspective, the individual-level risk of cancer always increases after reproduction, and the population-level decrease is due to *Survivorship Bias*. The rate of increase is much slower in those that happen to survive to the oldest-old stage, which results in a decrease in the population-level risk of cancer.  
 
