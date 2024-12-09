@@ -18,11 +18,9 @@ Human life can be divided into distinct stages of development, including stages 
 - **Supercentenarians**: 111+ years  
 
 The population-level risk of developing cancer increases until the "old" stage (66–85 years) but begins to decline in the "oldest-old" (86–99 years) [Bonafè, M. et al., 2002]. This phenomenon has two potential explanations:  
-1. **Slower Aging Program**:  
-   The actual individual-level risk of developing cancer decreases in the oldest-old stage of development. This biological slowdown in cancer susceptibility is then reflected in the population-level decrease in cancer risk.
+1. **Slower Aging Program**: The actual individual-level risk of developing cancer decreases in the oldest-old stage of development. This biological slowdown in cancer susceptibility is then reflected in the population-level decrease in cancer risk.
 
-2. **Survivorship Bias**:
-   While the individual-level risk of developing cancer continues to increase for all humans with age, the rate of increase is much slower in those that survive to the oldest-old stage. This results in the population-level risk of cancer decreasing for those that manage to survivor to the oldest-old stage. 
+2. **Survivorship Bias**: While the individual-level risk of developing cancer continues to increase for all humans with age, the rate of increase is much slower in those that survive to the oldest-old stage. This results in the population-level risk of cancer decreasing for those that manage to survivor to the oldest-old stage. 
 
 ## The Best Methods of Life Extension Interfer With Active Pathways 
 
