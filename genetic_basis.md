@@ -1,10 +1,16 @@
 # There is an aging program with a large genetic component.
 
+### Heritability of Lifespan
+
+The queen ant lives for many years, while worker ants, despite having the same genome, survive only a single season. Thus, aging involves more than just genetic factors. Regardless of whether the gene is the only unit of heritability that is relevent to aging, it is clear that aging is heritable. Maximum and average lifespan are stabally transmitted from one generation to the next. The "program" of aging may be embedded in non-genetic components, such as information stored in cellular structures like centrioles (Marshall, 2009). 
+
+Maximum lifespan remains constant when organimss are removed from the wild and kept in laboratory conditions, indicating that maximum lifespan is due to internal factors. Maximum lifespan is different for organisms in the same ecological niche, meaning that maximum lifespan has to due to internal factors and no the niche. 
+
+Maximum lifespan is not measured in chronological time. For example, if yeast cells are put in low temperatures, they divide slower and their replicatie and actual lifespan is increased. The lifespan of many organisms is markedly affetced by temperature. 
+
 ### Genetic Basis of Lifespan 
 
 An organism’s lifespan has a strong genetic component, as evidenced by the following four observations: 
-
-The program could be written in information embedded in the centrioloes, for example. 
 
 1. **There are often large species-specific differences in lifespan.**
 
