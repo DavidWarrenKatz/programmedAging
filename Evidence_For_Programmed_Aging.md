@@ -20,7 +20,7 @@ The population-level risk of developing cancer increases until the "old" stage (
    The actual individual-level risk of developing cancer decreases in the oldest-old stage of development. This biological slowdown in cancer susceptibility is then reflected in the population-level decrease in cancer risk.
 
 2. **Survivorship Bias**:
-   While the individual-level risk of developing cancer continues to increase for all organisms with age, but the rate of increase is much slower in those the survive to the oldest-old stage. This results in the population-level risk of cancer decreasing for those that manage to survivor to the oldest-old stage. 
+   While the individual-level risk of developing cancer continues to increase for all organisms with age, but the rate of increase is much slower in those that survive to the oldest-old stage. This results in the population-level risk of cancer decreasing for those that manage to survivor to the oldest-old stage. 
 
 ## The Best Methods of Life Extension Interfer With Active Pathways 
 
