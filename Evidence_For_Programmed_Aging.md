@@ -18,9 +18,11 @@ Human life can be divided into distinct stages of development, including stages 
 - **Supercentenarians**: 111+ years  
 
 The population-level risk of developing cancer increases until the "old" stage (66–85 years) but begins to decline in the "oldest-old" (86–99 years) [Bonafè, M. et al., 2002]. This phenomenon has two potential explanations:  
-1. **Slower Aging Program**: The actual individual-level risk of developing cancer decreases in the oldest-old stage of development. This biological slowdown in cancer susceptibility is then reflected in the population-level decrease in cancer risk.
+1. **The Individual-Risk of Cancer Decreases at the More Advanced Aging Stages**: The actual individual-level risk of developing cancer decreases in the oldest-old stage of development. This biological slowdown in cancer susceptibility is then reflected in the population-level decrease in cancer risk. This can be compared to the risk of rhuematoid arthritis decreasing at this stage as well. 
 
-2. **Survivorship Bias**: While the individual-level risk of developing cancer continues to increase for all humans with age, the rate of increase is much slower in those that survive to the oldest-old stage. This results in the population-level risk of cancer decreasing for those that manage to survivor to the oldest-old stage. 
+2. **The Individual Risk of Cancer Always Increases, but the Population-lvel risk declines due to Survivorship Bias**: While the individual-level risk of developing cancer continues to increase for all humans with age, the rate of increase is much slower in those that survive to the oldest-old stage. This results in the population-level risk of cancer decreasing for those that manage to survivor to the oldest-old stage. 
+
+If similar declines in cancer risk occur across all populations, regardless of genetic diversity, this would favor the explanation that the individual-level risk of cancer is actually decreasing at that stage in development. Variation in patterns would suggest survivorship bias due to demographic differences. The population-level decrease in cancer risk among the oldest-old would become less pronounced or even disappear as the population increases. If the decline in cancer risk is due to survivorship bias, then increasing the population size introduces more variability. A larger population would include more individuals who lack the genetic or environmental advantages required to survive to the oldest-old stage. This would dilute the effects of survivorship bias, making the population-level decrease in cancer risk less apparent.
 
 ## The Best Methods of Life Extension Interfer With Active Pathways 
 
