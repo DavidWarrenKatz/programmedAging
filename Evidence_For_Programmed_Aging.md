@@ -27,7 +27,7 @@ The population-level risk of developing certain disease depends on the stage of 
 
 These two explanations make distinct predictions:  
 
-1. **Biological Stages Predictions:** Firstly, there are biological triggers for transitioning from the "old" to the "oldest-old" stage, analogous to the role of hormones in puberty. Secondly, the likelihoods of disease and the transitions between stages would remain unchanged even if measured in a much larger population size. Since the stages are determined by biological mechanisms rather than statistical phenomena, increasing the number of organisms would not alter these patterns.
+1. **Biological Stages Predictions:** Firstly, there are biological triggers for transitioning from the "old" to the "oldest-old" stage, analogous to the role of hormones in puberty. Secondly, the likelihoods of disease and the transitions between stages would remain unchanged even if measured in a much larger population. Since the stages are determined by biological mechanisms rather than statistical phenomena, increasing the number of organisms would not alter these patterns.
    
 4. **Statistical Artifact Predictions:** With a sufficiently large population, the statistical artifacts responsible for the appearance of population-level stages of aging could diminish or even disappear entirely. Even if the stages persist, the likelihoods of disease and the timing of transitions may shift due to the change in variability in the larger datasets. A key prediction of this theory is that, given enough people, at least one individual could potentially live to 200 years or beyond, since statistical extremes become more likely in larger populations.  
 
