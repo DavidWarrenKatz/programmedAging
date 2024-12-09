@@ -2,15 +2,27 @@
 
 ## Aging Is A Stage of Development
 
-There are different stages of old age just as there are different stages of development. 
+Human life can be divided into distinct stages of development, including stages of aging. Each stage is associated with distinct biological characteristics and distinct liklihood of diseases.
 
-youngest-old   50-65 years
-old            66-85 years
-oldest-old     86-99 years
-centenarians   100-110
-supecentenarians  111+
+- **Infancy**: 0–2 years  
+- **Childhood**: 3–12 years  
+- **Adolescence**: 13–19 years  
+- **Young Adulthood**: 20–39 years  
+- **Adulthood**: 40–49 years  
+- **Youngest-old**: 50–65 years  
+- **Old**: 66–85 years  
+- **Oldest-old**: 86–99 years  
+- **Centenarians**: 100–110 years  
+- **Supercentenarians**: 111+ years  
 
-The population level risk of getting cancer increases until oldest old, when the population-level risk of getting cancer decreases. Of course, an individual's risk of getting cancer likely still increases every year, but this is hard to measure. On the population level, however, the risk decreases. One explanation is that the oldest-old have an aging program that is running slower. The other explanation is that these individual have survived to the next stage of the program. 
+The population-level risk of developing cancer increases until the "old" stage (66–85 years) but begins to decline in the "oldest-old" (86–99 years). This phenomenon has two potential explanations:  
+1. **Slower Aging Program**:  
+   The actual individual-level risk of developing cancer decreases in the oldest-old stage of development. This biological slowdown in cancer susceptibility is then reflected in the population-level decrease in cancer risk.
+
+2. **Survivorship Bias**:
+   While the individual-level risk of developing cancer continues to increase for all organisms with age, but the rate of increase is much slower in those the survive to the oldest-old stage. This results in the population-level risk of cancer decreasing for those that manage to survivor to the oldest-old stage. 
+
+## The Best Methods of Life Extension Interfer With Active Pathways 
 
 The most effective methods of extending animal lifespan—caloric restriction, exercise, young blood transfusions, castration, and knocking out certain genes—all revolve around disrupting the body's active pathways, rather than cooperating with the body or clearing damage.  
 Remarkably, old organisms are rejuvenated by young blood, and old blood is toxic to the young organisms [3]. For male organisms, castration leads to significant life extension in worms, flies, mice, and men [4]. Young blood transfusions and castration lead to life extension by interfering with active pathways, not by clearing damage.  
