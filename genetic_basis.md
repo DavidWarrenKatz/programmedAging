@@ -2,7 +2,7 @@
 
 ### Heritability of Lifespan
 
-The queen ant lives for many years, while worker ants, despite having the same genome, survive only a single season. Thus, aging involves more than just genetic factors. Regardless of whether the gene is the only unit of heritability that is relevent to aging, it is clear that aging is heritable. Maximum and average lifespan are stabally transmitted from one generation to the next. The "program" of aging may be embedded in non-genetic components, such as information stored in cellular structures like centrioles (Marshall, 2009). 
+The queen ant lives for many years, while worker ants, despite having the same genome, survive only a single season. Thus, aging involves more than just genetic factors. Regardless of whether the gene is the only unit of heritability that is relevent to aging, it is clear that aging is heritable. Maximum and average lifespan are stabally transmitted from one generation to the next. Below, I am going to present evidence for the genetic component of the aging program, but this program may also be embedded in non-genetic components, such as information stored in cellular structures like centrioles (Marshall, 2009). 
 
 Maximum lifespan remains constant when organimss are removed from the wild and kept in laboratory conditions, indicating that maximum lifespan is due to internal factors. Maximum lifespan is different for organisms in the same ecological niche, meaning that maximum lifespan has to due to internal factors and no the niche. 
 
