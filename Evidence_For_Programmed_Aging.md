@@ -4,6 +4,8 @@
 
 Human life can be divided into distinct stages of development, including stages of aging. Each stage is associated with distinct biological characteristics and distinct liklihood of diseases.
 
+- **Embryogenesis**: Fertilization to 8 weeks  
+- **Fetal Stage**: 9 weeks to birth
 - **Infancy**: 0–2 years  
 - **Childhood**: 3–12 years  
 - **Adolescence**: 13–19 years  
