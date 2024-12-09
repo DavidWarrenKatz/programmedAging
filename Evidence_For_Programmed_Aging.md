@@ -15,7 +15,7 @@ Human life can be divided into distinct stages of development, including stages 
 - **Centenarians**: 100–110 years  
 - **Supercentenarians**: 111+ years  
 
-The population-level risk of developing cancer increases until the "old" stage (66–85 years) but begins to decline in the "oldest-old" (86–99 years). This phenomenon has two potential explanations:  
+The population-level risk of developing cancer increases until the "old" stage (66–85 years) but begins to decline in the "oldest-old" (86–99 years) [Bonafè, M. et al., 2002]. This phenomenon has two potential explanations:  
 1. **Slower Aging Program**:  
    The actual individual-level risk of developing cancer decreases in the oldest-old stage of development. This biological slowdown in cancer susceptibility is then reflected in the population-level decrease in cancer risk.
 
@@ -30,3 +30,8 @@ Two other life extension mechanisms are exercise and caloric restriction. No pre
 Extension of life in the presence of stressors is only possible because the body is holding some of its abilities in reserve. It follows that the body is not evolved to live as long as possible. Evolution has selected for aging, and the rate of death is being carefully modulated by evolution.  
 Aging genes have been discovered in every organism in which they have been sought. A gene is classified as an “aging gene” if the organism lives longer when that gene is knocked-out. Examples of aging genes are DAF-2 in nematodes [5] and components of the DREAM complex in mice [6]. These genes are components of active chemical pathways that have been evolutionarily conserved across various species. These aging genes have an ancient origin. They have homologs in organisms across the tree of life, going back to the simplest eukaryotes. Evolution has preserved these aging genes with the same conservatism as it has preserved the core metabolic functions essential to all life. Evolution has selected for active self-destruction. This is ‘how’ aging happens.  
 The weight of scientific evidence leans towards aging being an active process of self-destruction.
+
+
+References
+
+Bonafè, M., Barbi, C., Storci, G., Salvioli, S., Capri, M., Olivieri, F., ... & Franceschi, C. (2002). What studies on human longevity tell us about the risk for cancer in the oldest old: data and hypotheses on the genetics and immunology of centenarians. Experimental gerontology, 37(10-11), 1263-1271.
