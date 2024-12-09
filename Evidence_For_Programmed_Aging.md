@@ -31,7 +31,7 @@ These two explanations make distinct predictions:
    
 4. **Statistical Artifact Predictions:** With a sufficiently large population, the statistical artifacts responsible for the appearance of population-level stages of aging could diminish or even disappear entirely. Even if the stages persist, the likelihoods of disease and the timing of transitions may shift due to the change in variability in the larger datasets. A key prediction of this theory is that, given enough people, at least one individual could potentially live to 200 years or beyond, since statistical extremes become more likely in larger populations.  
 
-## The Final Stage of the Aging Program is Sudden-Death 
+## There is sudden death program in humans, just like octopuses and plants. The likelihood of this program activating drastically increases in the **oldest-old** stage. 
 
 The lack of long-lived mutants is also a common criticism of the programmed theory of aging. Afterall, if aging is truly programmed, we might expect to see humans with mutations in their biological clocks, allowing them to live dramatically longer—perhaps even more than 200 years. The reason there are no long-lived mutants is that the aging program is highly robust to spontaneous mutations. The aging program has developed ways to deal with the spontaneous mutations that arise in nature, just as the developmental program has developed ways to deal with the insult of the embryo being divided into two. To truly reverse aging, a more targeted and coordinated insult to the body is needed. Evolution, while robust, is not invincible. There are specific challenges to the genome and the body that evolution cannot handle. A coordinated and targeted insult to the body’s biological clocks is the most promising aging intervention. We need interventions that break things down and target the clock, not interventions that clear damage.
 
@@ -42,9 +42,8 @@ If organisms die as a result of the aging program allowing damage to accumulate,
 
 The concept of a biologically programmed maximum lifespan suggests that organisms may possess a death program separate from their aging program. The aging program, governed by biological clocks, allows damage to accumulate gradually, reducing an organism’s fitness and transitioning the organisms into a more vulnerable grandfatherly role. Over time, this damage makes survival less likely, but it does not directly cause death. Instead, the existence of a maximum lifespan suggests the presence of a death program—a programmed mechanism, also governed by biological clocks, that ensures an organism dies at a certain point, regardless of accumulated damage. This death program may work similarly to the well-known death programs observed in species like bamboo plants, octopuses, and cicadas, where organisms die all at once after reproduction.
 
-
-
-
+## Genome-specific Aging
+sex-differences. male higher chance of serious sepsis
 
 ## The Best Methods of Life Extension Interfer With Active Pathways 
 
