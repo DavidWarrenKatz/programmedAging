@@ -16,20 +16,7 @@ Evolution shapes the post-reproductive lifespan of organisms. While evolutionary
 - **Oldest-old**: 86–99 years  
 - **Centenarians**: 100–110 years  
 - **Supercentenarians**: 111+ years  
-
-- **Embryogenesis**: Fertilization to 8 weeks  
-- **Fetal Stage**: 9 weeks to birth  
-- **Infancy**: 0–2 years  
-- **Childhood**: 3–12 years  
-- **Adolescence**: 13–19 years  
-- **Young Adulthood**: 20–39 years  
-- **Adulthood**: 40–49 years  
-- **Youngest-old**: 50–65 years _(Traditionally described as aging)_  
-- **Old**: 66–85 years  
-- **Oldest-old**: 86–99 years  
-- **Centenarians**: 100–110 years  
-- **Supercentenarians**: 111+ years 
-
+  <span style="display:inline-block; transform:rotate(-90deg); transform-origin: left top; position:relative; top:1.5em;">(Traditionally described as aging)</span>
 
 The population-level risk of developing certain disease depends on the stage of life. For example, the population-level risk of developing cancer increases until the end of the "old" stage (66–85 years), and then begins to decline in the "oldest-old" stage (86–99 years) [Bonafè, M. et al., 2002]. Likewise, the population-level risk of developing rhuematoid arthritis increases until the end of the "youngest old" stage (66–85 years), and then begins to decline in the "old" stage (66–85 years). These observed trends in population-level disease risk suggest two possible explanations for individual-level risk, which is inherently more difficult—if not impossible—to measure directly.
 
