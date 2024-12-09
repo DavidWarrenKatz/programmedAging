@@ -10,7 +10,8 @@ Evolution shapes the post-reproductive lifespan of organisms. While evolutionary
 - **Childhood**: 3–12 years  
 - **Adolescence**: 13–19 years  
 - **Young Adulthood**: 20–39 years  
-  <span style="display:inline-block; transform:rotate(-90deg); transform-origin: left top; position:relative; top:1.5em;">(Below are traditionally described as aging)</span>
+  <span style="display:inline-block; transform:rotate(-90deg); transform-origin: left top; position:relative; top:1.5em;">(Below are traditionally grouped together 
+ as aging)</span>
 - **Adulthood**: 40–49 years  
 - **Youngest-old**: 50–65 years  
 - **Old**: 66–85 years  
