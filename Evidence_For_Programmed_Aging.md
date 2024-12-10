@@ -2,7 +2,7 @@
 
 ## There are many stages of the aging process, just as there are many stages of the developmental process.
 
-Evolution shapes the post-reproductive lifespan of organisms. While evolutionary pressures for survival often diminish after reproduction, this reduction is not arbitrary. Instead, the programmed theory of aging contends that the reduction in survival post reproduction is the result of biological processes that are structured and robust. This is supported by the observation that aging occurs in distinct stages. Just as development is marked by predictable stages, such as embryogenesis and adolescence, aging also progresses through predictable phases. A possible framework for categorizing these stages in humans is as follows [**C57BL/6** mice can be found [here](C57BL6_life_stages.md]:
+Evolution shapes the post-reproductive lifespan of organisms. While evolutionary pressures for survival often diminish after reproduction, this reduction is not arbitrary. Instead, the programmed theory of aging contends that the reduction in survival post reproduction is the result of biological processes that are structured and robust. This is supported by the observation that aging occurs in distinct stages. Just as development is marked by predictable stages, such as embryogenesis and adolescence, aging also progresses through predictable phases. A possible framework for categorizing these stages in humans is as follows [**C57BL/6** mice can be found [here](C57BL6_life_stages.md)]:
 
 - **Embryogenesis**: Fertilization to 8 weeks  
 - **Fetal Stage**: 9 weeks to birth
