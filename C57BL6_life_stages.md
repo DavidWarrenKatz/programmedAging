@@ -13,14 +13,25 @@
 - **Centenarians**: 30–36 months
 - **Supercentenarians**:  36+ months
 
-| **Sex**       | **Age (Days)** | **Puberty Marker**                   | **C57BL/6 Details**                               |
-|---------------|---------------|--------------------------------------|-------------------------------------------------|
-| Female Mice   | 28-35         | Vaginal opening, estrous cycle onset | Vaginal opening around **28-30 days**            |
-| Male Mice     | 35-40         | Preputial separation, sperm production | Preputial separation around **30-35 days**      |
+**Table 1: Bright Lines in the Development/Aging Program for Female C57BL/6 Mice**
+
+| **Stage**              | **Age (Days)** | **Milestone/Bright Line** | **Details**                          |
+|-------------------------|----------------|---------------------------|--------------------------------------|
+| **Marks the beginniof Young Adulthood**        | 28-30          | Vaginal Opening           | Also first ovulation          |
+| **Old Age**             | >24 months     | Loss of Reproductive Cycle| Permanent cessation of estrous cycles.|
+
+---
+
+**Table 2: Bright Lines in the Development/Aging Program for Male C57BL/6 Mice**
+
+| **Stage**              | **Age (Days)** | **Milestone/Bright Line** | **Details**                          |
+|-------------------------|----------------|---------------------------|--------------------------------------|
+| **Marks the beginniof Young Adulthood**       | 30-35          | Preputial Separation      | Marks the onset of sperm production         |
 
 ---
 
 **References**  
 1. Nelson, J. F., Felicio, L. S., Randall, P. K., Sims, C., & Finch, C. E. (1982). **Aging and reproductive function in C57BL/6J mice: Ovulation, fertility, and the estrous cycle.** *Biology of Reproduction*, 27(2), 327-339.  
-2. Korenbrot, C. C., Huhtaniemi, I. T., & Weiner, R. I. (1977). **Preputial separation as an external sign of pubertal development in the male rat.** *Biology of Reproduction*, 17(2), 298-303.  
-3. The Jackson Laboratory (JAX). (2023). **C57BL/6J Strain Data Sheet.** Available at: [www.jax.org](https://www.jax.org).  
+2. The Jackson Laboratory (JAX). (2023). **C57BL/6J Strain Data Sheet.** Available at: [www.jax.org](https://www.jax.org).  
+3. Flurkey, K., Currer, J. M., & Harrison, D. E. (2007). **Mouse Models in Aging Research.** *The Mouse in Biomedical Research*, 3, 637-672.  
+ 
