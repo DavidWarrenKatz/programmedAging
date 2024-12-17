@@ -17,7 +17,7 @@
 
 | **Stage**              | **Age (Days)** | **Milestone/Bright Line** | **Details**                          |
 |-------------------------|----------------|---------------------------|--------------------------------------|
-| **Marks the beginniof Young Adulthood**        | 28-30          | Vaginal Opening           | Also first ovulation          |
+| **Marks the begining of Young Adulthood**        | 28-30          | Vaginal Opening           | Also first ovulation          |
 | **Old Age**             | >24 months     | Loss of Reproductive Cycle| Permanent cessation of estrous cycles.|
 
 ---
@@ -26,7 +26,7 @@
 
 | **Stage**              | **Age (Days)** | **Milestone/Bright Line** | **Details**                          |
 |-------------------------|----------------|---------------------------|--------------------------------------|
-| **Marks the beginniof Young Adulthood**       | 30-35          | Preputial Separation      | Marks the onset of sperm production         |
+| **Marks the begining of Young Adulthood**       | 30-35          | Preputial Separation      | Marks the onset of sperm production         |
 
 ---
 
